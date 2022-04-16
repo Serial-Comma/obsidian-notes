@@ -1,0 +1,2 @@
+# obsidian-notes
+sch notes
