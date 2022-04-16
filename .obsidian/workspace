@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "f798f6a79906713f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c6aa3d67fe6400d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Test.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67b47dcadc8b1564",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c402e3cc399b4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc5f8d252d6c8f4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56961ff6fbe3a5f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8094a6c06b8f9b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "268421c61bfe8191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ec6d87a9b2fc4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0200bf794096660f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0c6aa3d67fe6400d",
+  "lastOpenFiles": [
+    "Test.md",
+    "Tutition industry in China.md",
+    "README.md"
+  ]
+}
