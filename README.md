@@ -41,13 +41,15 @@ sudo pacman -S git
 cd Documents/
 git clone https://github.com/Serial-Comma/obsidian-notes.git
 ```
-~~if you dont use arch you might have a worse time~~
+~~if you dont use arch like me you probably are actually intelligent enough to figure it our yourself time~~
 
 ### Mac
-dont use mac
+~~1) dont use mac~~
+1) Download obsidian 
+2) Follow Windows
 
+## Contributing guidelines
+~~Please don’t contribute~~
+uhh contribute whatever you think is cool and PR it ill probably merge it idk
 
-
-
-
-## Contr
+also make sure to put any 
