@@ -67,7 +67,7 @@ Monetary Authority of Singapore (MAS) imposed regulations that limit car loans f
 
 ### Price of substitute goods
 Substitute goods are goods in competitive demand. 
-Increase in price of one good → Increase demand for other 
+Increase in price of one good → Increased demand for other good 
 
 
 
