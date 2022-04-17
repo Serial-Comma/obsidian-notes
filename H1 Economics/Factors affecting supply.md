@@ -1,5 +1,5 @@
 # Factors affecting supply
-###### These non-price determinants cause the supply curve to shift left or right. 
+These non-price determinants cause the supply curve to shift left or right. 
 
 Supply increases → Curve shifts rightwards
 Supply decreases → Curve shifts leftwards
@@ -56,6 +56,9 @@ Example: Adopting digital systems that integrate machines, computers and humans 
 → Increase industry’s capacity
 → Supply increases
 
+### Supply shocks
+Unexpected events like wars and natural disasters destroy resources such as crops, livestock, labor and capital while industrial disputes (strikes) and financial crisis disrupt production. 
+
 ## Price of Related goods:
 
 ### Price of goods in joint supply
@@ -66,4 +69,5 @@ Example: Beef and leather are in joint supply because slaughtered cows provide b
 ### Price of goods in competitive supply
 Goods in competitive supply compete for the use of the same inputs. For these kinds of goods. Increase in price of one good → Decrease in supply of the other.
 
-Example: Leather handbags and leather shoes are in competitive supply since both goods use leather as an input. Price of Leather handbags increase → Qs of Leather handbags increases → More leather diverted to producing leather handbags as its more profitable -.
+Example: Leather handbags and leather shoes are in competitive supply, since both goods use leather as an input. Price of Leather handbags increase → Qs of Leather handbags increases → More leather diverted to producing leather handbags as it's more profitable → Less leather available for leather shoes → Supply of leather shoes decreases
+
