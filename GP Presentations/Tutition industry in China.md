@@ -1,4 +1,4 @@
-![[Tutition industry in China 2022-04-17 20.25.45.excalidraw]]# Tutition industry in China
+# Tutition industry in China
 2021:XingDengQiang Tutition Agency
 -> 80,000 sets of chairs and tables donated to rural schools ($160)
 -> No weekend tuition unless it is non profit
@@ -23,3 +23,6 @@ Other countries might take regulations from China as reference
 
 Is tution a real solution to students for improving their aecha
 or is it just adding more stress?
+
+
+![[Tutition industry in China 2022-04-17 20.25.45.excalidraw]]
