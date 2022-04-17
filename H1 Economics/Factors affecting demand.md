@@ -49,8 +49,19 @@ Expected price decrease → Buyers hold back purchases to only buy when price is
 These speculations often exacerbate price fluctuations and volatility in a market, and can be witnessed in both [[Asset Markets]] and [[Commodity Markets]]. 
 
 ### Exchange Rates
+Exchange rates are the rate one country’s currency can be exchanged for another currency.
 
+Appreciation/Strengthening of domestic currency → Imported substitutes become cheaper → Decrease in demand for locally produced goods
 
+For example, 
+→Japanese Yen appreciates 
+→ European cars are cheaper to import 
+→ Consumers switch from locally manufactured cars to European-manufactured cars
+→ Demand for locally-manufactured cars decreases
+
+### Government policies
+Example: 
+Monetary Authority of 
 ## Price of related goods:
 ### Price of substitute goods
 
