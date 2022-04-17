@@ -2438,8 +2438,8 @@ tags: [excalidraw]
 		}
 	],
 	"appState": {
-		"theme": "dark",
-		"viewBackgroundColor": "#003237",
+		"theme": "light",
+		"viewBackgroundColor": "#fff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
