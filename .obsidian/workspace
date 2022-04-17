@@ -7,11 +7,9 @@
         "id": "5d09daed6a75a9a3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/YOU!!!!.excalidraw.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "assets/YOU!!!!.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "assets/YOU!!!!.excalidraw.md"
               }
             }
           },
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "assets/YOU!!!!.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,15 +149,15 @@
   },
   "active": "5d09daed6a75a9a3",
   "lastOpenFiles": [
+    "assets/YOU!!!!.excalidraw.md",
+    "assets/test.excalidraw.md",
+    "H1 Economics/Role of prices in a free market.md",
+    "H1 Economics/Types of Factors of production.md",
+    "H1 Economics/Supply.md",
     "README.md",
-    "H1 Economics/Demand.md",
     "H1 Economics/Commodity Markets.md",
     "H1 Economics/Asset Markets.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md",
-    "H1 Economics/Factors affecting supply.md",
-    "H1 Economics/G&S.md",
-    "H1 Economics/Law of Demand.md",
-    "H1 Economics/Law of Diminishing Marginal Utility.md",
-    "H1 Economics/Normal Goods.md"
+    "H1 Economics/Demand.md",
+    "H1 Economics/Effects of supply and demand on price and quantity.md"
   ]
 }
