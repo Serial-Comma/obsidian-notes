@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Role of prices in a free market.md",
+            "file": "H1 Economics/Factors affecting demand.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Role of prices in a free market.md",
+                "file": "H1 Economics/Factors affecting demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Role of prices in a free market.md"
+                "file": "H1 Economics/Factors affecting demand.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Role of prices in a free market.md",
+                "file": "H1 Economics/Factors affecting demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,15 +143,15 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
-    "Role of prices in a free market.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md",
     "H1 Economics/Factors affecting demand.md",
+    "Role of prices in a free market.md",
+    "README.md",
+    "H1 Economics/Effects of supply and demand on price and quantity.md",
     "H1 Economics/Law of supply.md",
     "H1 Economics/Supply.md",
     "H1 Economics/Commodity Markets.md",
     "H1 Economics/Asset Markets.md",
     "H1 Economics/Demand.md",
-    "H1 Economics/Law of Diminishing Marginal Utility.md",
-    "H1 Economics/Law of Demand.md"
+    "H1 Economics/Law of Diminishing Marginal Utility.md"
   ]
 }
