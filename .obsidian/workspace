@@ -7,11 +7,9 @@
         "id": "0c6aa3d67fe6400d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "GP Presentations/Tutition industry in China.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-04-17 18.18.35.excalidraw.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GP Presentations/Tutition industry in China.md",
+                "file": "Excalidraw/Drawing 2022-04-17 18.18.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GP Presentations/Tutition industry in China.md"
+                "file": "Excalidraw/Drawing 2022-04-17 18.18.35.excalidraw.md"
               }
             }
           },
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GP Presentations/Tutition industry in China.md",
+                "file": "Excalidraw/Drawing 2022-04-17 18.18.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,15 +149,15 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-04-17 18.18.35.excalidraw.md",
     "GP Presentations/Tutition industry in China.md",
+    "H1 Economics/Factors affecting supply.md",
+    "H1 Economics/G&S.md",
+    "H1 Economics/Demand.md",
     "H1 Economics/Factors affecting demand.md",
     "Role of prices in a free market.md",
     "README.md",
     "H1 Economics/Effects of supply and demand on price and quantity.md",
-    "H1 Economics/Law of supply.md",
-    "H1 Economics/Supply.md",
-    "H1 Economics/Commodity Markets.md",
-    "H1 Economics/Asset Markets.md",
-    "H1 Economics/Demand.md"
+    "H1 Economics/Law of supply.md"
   ]
 }
