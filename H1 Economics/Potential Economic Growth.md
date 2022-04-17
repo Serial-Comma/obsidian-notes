@@ -9,4 +9,7 @@ Examples:
 - Quantity of land could increase due to land reclamation
 - Population growth or migration policies increase the quantity of the labor force
 
-Each of these factors cause 
+### Increase in quality of [[Factors of production]]
+Examples:
+- Higher education and training
+- Improvement in the level of technology
