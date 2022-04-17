@@ -14,6 +14,7 @@ dont expect them to be legible
 ###### and this
 ![image](https://user-images.githubusercontent.com/47783328/163711607-619dc958-9b33-4cad-873a-e7c8bcdcff8a.png)
 ![image](https://user-images.githubusercontent.com/47783328/163711678-6a50bce3-6e89-4a56-8ab8-ffb5b786b6e9.png)
+![image](https://user-images.githubusercontent.com/47783328/163711991-fecc95b6-d0ea-4dd5-9083-83777bfdf292.png)
 
 ## How to use:
 
@@ -22,6 +23,7 @@ I make my notes using the [Obsidian note editor](https://obsidian.md/). If you d
 ### Windows
 
 1) Open PowerShell by pressing Win and type “PowerShell”. Right click the program, and press ‘Run as Administrator’.
+
 ![image](https://user-images.githubusercontent.com/47783328/163711765-9b204724-dc77-4b79-8a37-b82285818008.png)
 
 2) If you’re actually following this, it's likely you don’t have `git`. Type this into the PowerShell Window:
