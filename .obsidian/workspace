@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "H1 Economics/Factors affecting demand.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -126,7 +126,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,11 +136,11 @@
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
     "H1 Economics/Factors affecting demand.md",
-    "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Commodity Markets.md",
-    "H1 Economics/Normal Goods.md",
     "H1 Economics/Asset Markets.md",
+    "H1 Economics/Factors affecting supply.md",
     "H1 Economics/G&S.md",
+    "H1 Economics/Normal Goods.md",
     "Demand.md",
     "README.md",
     "assets/Pasted image 20220417150325.png",

@@ -72,6 +72,9 @@ Increase in price of one good → Increase in demand for other good
 For example, Coke and Pepsi are similar, so 
 Price of Pepsi rises → Consumers of Pepsi Switch to Coke → Increased demand for Coke
 
-### Price of
+### Price of complementary goods
+Complementary goods are goods in joint demand. 
+Increase in price of one good → Decrease in demand for the other good
 
-
+For example, if Matches and Cigarettes are in joint demand, so
+Price of cigarettes increases → $Q_{D}$ of cigarettes decreases → $Q_{D}$ of matches also decreases
