@@ -37,7 +37,7 @@ cd .\Documents\
 git clone https://github.com/Serial-Comma/obsidian-notes.git
 ```
 6) After it's done, open your Obsidian Application and press the ‘Open’ button next to “Open folder as vault”
-![image](https://user-images.githubusercontent.com/47783328/163711650-4e0c17fc-c177-4a46-a8c0-b9786c3a840d.png)
+![image](https://user-images.githubusercontent.com/47783328/163711758-104b9e99-0f46-4a04-a474-8211cd1a2054.png)
 7) You should be able to view and edit it like normal.
 
 
