@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2022/3/17": 444,
-    "2022/3/18": 74
+    "2022/3/18": 133
   },
   "todaysWordCount": {
     "GP Presentations/Tutition industry in China.md": {
@@ -39,6 +39,10 @@
     "Nomative Statement.md": {
       "initial": 3,
       "current": 13
+    },
+    "Normative Statement.md": {
+      "initial": 14,
+      "current": 73
     }
   }
 }

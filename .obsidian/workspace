@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nomative Statement.md",
+            "file": "Normative Statement.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nomative Statement.md",
+                "file": "Normative Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nomative Statement.md"
+                "file": "Normative Statement.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nomative Statement.md",
+                "file": "Normative Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
   },
   "active": "5d09daed6a75a9a3",
   "lastOpenFiles": [
-    "Nomative Statement.md",
+    "Normative Statement.md",
     "H1 Economics/Definitions/Positive Statement.md",
     "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Definitions/Law of Supply.md",
