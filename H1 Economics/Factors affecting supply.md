@@ -60,3 +60,5 @@ Example: Adopting digital systems that integrate machines, computers and humans 
 
 ### Price of goods in joint supply
 Goods in joint supply are when the production of one good leads to the production of another good. Increase in supply for one good → Increase in supply for the other good
+
+Example: Beef and leather are in joint supply because slaughtered cows provide both beef and leather. Price of beef increases → Increase in _Qs_ of 

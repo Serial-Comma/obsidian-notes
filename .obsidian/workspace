@@ -103,6 +103,25 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "98eba581dd997a2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbc10b451767ba18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 3
