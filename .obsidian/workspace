@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Factors affecting supply.md",
+            "file": "H1 Economics/Factors affecting demand.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Factors affecting supply.md",
+                "file": "H1 Economics/Factors affecting demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "H1 Economics/Factors affecting demand.md"
+              }
             }
           },
           {
@@ -118,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "H1 Economics/Factors affecting demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,11 +135,13 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
+    "H1 Economics/Factors affecting demand.md",
     "H1 Economics/Factors affecting supply.md",
     "README.md",
+    "assets/Pasted image 20220417150325.png",
+    "assets/Pasted image 20220417135255.png",
     "assets.md",
     "Pasted image 20220417135157.png",
-    "assets/Pasted image 20220417135255.png",
     "GP Presentations/Tutition industry in China.md"
   ]
 }

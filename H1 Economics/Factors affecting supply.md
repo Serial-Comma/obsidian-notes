@@ -62,7 +62,10 @@ Unexpected events like wars and natural disasters destroy resources such as crop
 Such events occur → Supply decreases
 
 ### Expectations of future prices
-If a price of a good is expected to increase in the future, producers may temporarily hold back their stocks
+If a price of a good is expected to increase in the future, producers may temporarily hold back their stocks to sell them at a higher price in the future, earning more profits. 
+
+Expecting higher prices → Reduces current supply
+Exectomg lower prices → Increases current supply
 
 ## Price of Related goods:
 
