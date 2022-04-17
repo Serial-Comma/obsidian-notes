@@ -1,4 +1,4 @@
-# Effects of supply and demand on a given market
+# Effects of supply and demand on price and quantity
 
 |   Cause                                                   |   Impact on Price       |   Impact on Quantity      |
 |:----------------------------------------------------------|:------------------------|:--------------------------|
