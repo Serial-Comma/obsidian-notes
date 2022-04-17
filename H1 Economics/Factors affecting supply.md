@@ -62,7 +62,7 @@ Unexpected events like wars and natural disasters destroy resources such as crop
 Such events occur → Supply decreases
 
 ### Expectations of future prices
-
+If a price of a good is expected to increase in the future, producers may temporarily hold back their stocks
 
 ## Price of Related goods:
 
