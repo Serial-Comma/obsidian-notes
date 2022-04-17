@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Potential Economic Growth.md",
+            "file": "H1 Economics/Production Possibility Curve (PPC).md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Potential Economic Growth.md",
+                "file": "H1 Economics/Production Possibility Curve (PPC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Potential Economic Growth.md"
+                "file": "H1 Economics/Production Possibility Curve (PPC).md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Potential Economic Growth.md",
+                "file": "H1 Economics/Production Possibility Curve (PPC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,14 +165,14 @@
   },
   "active": "a9780e7ab5316243",
   "lastOpenFiles": [
-    "H1 Economics/Potential Economic Growth.md",
-    "H1 Economics/Actual Economic Growth.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md",
     "H1 Economics/Production Possibility Curve (PPC).md",
+    "H1 Economics/Actual Economic Growth.md",
     "assets/Production Possibility Curve (PPC) 2022-04-18 01.23.09.excalidraw.md",
+    "H1 Economics/Factors of production.md",
+    "H1 Economics/Potential Economic Growth.md",
+    "H1 Economics/Effects of supply and demand on price and quantity.md",
     "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Scarcity, Choice and Opportunity cost.md",
-    "H1 Economics/Types of Factors of production.md",
     "H1 Economics/Inferior Goods.md",
     "H1 Economics/Opportunity cost.md"
   ]
