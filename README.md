@@ -12,7 +12,7 @@ dont expect them to be legible
 ### and this
 #### and this
 ###### and this
-![image](https://user-images.githubusercontent.com/47783328/163711578-788fd911-fa8f-4c89-a21b-ca07d2b97630.png)
+![image](https://user-images.githubusercontent.com/47783328/163711607-619dc958-9b33-4cad-873a-e7c8bcdcff8a.png)
 
 ## How to use:
 
