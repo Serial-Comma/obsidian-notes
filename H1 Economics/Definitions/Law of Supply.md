@@ -1,6 +1,6 @@
-# Law of supply
+# Law of Supply
 
-The [[Law of Demand]] states that when the price of a good rises, its quantity supplied will rise. When its price falls, the quantity supplied will fall too, ceteris paribus. 
+The [[Law of Supply]] states that when the price of a good rises, its quantity supplied will rise. When its price falls, the quantity supplied will fall too, ceteris paribus. 
 
 There is a direct relationship between price and quantity supplied. Diagrammatically, this can be shown as the supply curve having a positive gradient.
 

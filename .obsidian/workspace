@@ -75,8 +75,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -142,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,14 +151,14 @@
   "active": "5d09daed6a75a9a3",
   "lastOpenFiles": [
     "H1 Economics/Role of prices in a free market.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md",
+    "H1 Economics/Definitions/Law of Supply.md",
+    "H1 Economics/Definitions/Law of Demand.md",
+    "assets/Drawing 2022-04-18 00.17.15.excalidraw.md",
+    "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Types of Factors of production.md",
-    "assets/test.excalidraw.md",
-    "README.md",
-    "H1 Economics/Definitions/Asset Markets.md",
-    "GP Presentations/Tutition industry in China.md",
-    "assets/Pasted image 20220417164006.png",
-    "assets/Pasted image 20220417163302.png",
-    "assets/Pasted image 20220417183022.png"
+    "H1 Economics/Effects of supply and demand on price and quantity.md",
+    "H1 Economics/Factors affecting demand.md",
+    "H1 Economics/Definitions/Law of Diminishing Marginal Utility.md",
+    "assets/test.excalidraw.md"
   ]
 }
