@@ -38,7 +38,13 @@ Relaxation of financing rules → Increased demand
 ### Population
 Increase in population size → Increased demand for all [[G&S]] 
 
-Changes in population structure also affect 
+Changes in population structure also affect demand patterns.
+Aging population → Increase in demand for goods consumed by elderly → Decrease in goods consumed by young people
+
+### Expectations of future prices
+Expected price increase → Buyers bring forward purchases to buy more before price increases → Current demand increases
+
+Expected price decrease → Buyers hold back purchases to only buy when price is lower → Current demand decreases
 
 
 ## Price of related goods:

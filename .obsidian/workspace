@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Factors affecting demand.md",
+            "file": "H1 Economics/Demand Markets.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Factors affecting demand.md",
+                "file": "H1 Economics/Demand Markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Factors affecting demand.md"
+                "file": "H1 Economics/Demand Markets.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Factors affecting demand.md",
+                "file": "H1 Economics/Demand Markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,15 +135,15 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
+    "H1 Economics/Demand Markets.md",
+    "H1 Economics/Asset Markets.md",
     "H1 Economics/Factors affecting demand.md",
     "H1 Economics/Factors affecting supply.md",
-    "H1 Economics/G&S.md",
     "H1 Economics/Normal Goods.md",
+    "H1 Economics/G&S.md",
     "Demand.md",
     "README.md",
     "assets/Pasted image 20220417150325.png",
-    "assets/Pasted image 20220417135255.png",
-    "assets.md",
-    "Pasted image 20220417135157.png"
+    "assets/Pasted image 20220417135255.png"
   ]
 }
