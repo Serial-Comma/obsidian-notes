@@ -61,8 +61,13 @@ For example,
 
 ### Government policies
 Example: 
-Monetary Authority of Singapore (MAS) imposed regulations that limit car loans for some categories of private cars to no more than 70% of the purchase price and the repayment period to no more than 7 years.
+Monetary Authority of Singapore (MAS) imposed regulations that limit car loans for some categories of private cars to no more than 70% of the purchase price and the repayment period to no more than 7 years. These policies cause some consumers to no longer be able to purchase cars, decreasing the demand for cars.
+
 ## Price of related goods:
+
 ### Price of substitute goods
+Substitute goods are goods in competitive demand. 
+Increase in price of one good → Increase demand for other 
+
 
 
