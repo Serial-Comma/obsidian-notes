@@ -32,7 +32,13 @@ Demand for leather goods increases → Demand for leather increases
 
 ### Ease of Acquiring Credit
 Consumers borrow to finance big purchases like property, furniture, household appliances, cars, holidays and education. 
-Easier credit conditions, such as lower in
+Easier credit conditions (like lower [[Interest Rates]]) → Increased demand for all [[G&S]]
+Relaxation of financing rules → Increased demand
+
+### Population
+Increase in population size → Increased demand for all [[G&S]] 
+
+Changes in population structure also affect 
 
 
 ## Price of related goods:
