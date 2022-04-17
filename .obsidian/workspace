@@ -7,8 +7,12 @@
         "id": "0c6aa3d67fe6400d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "H1 Economics/Law of Demand.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "H1 Economics/Law of Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "H1 Economics/Law of Demand.md"
+              }
             }
           },
           {
@@ -105,13 +112,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "H1 Economics/Law of Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3de0f4013ee6e8da",
+            "id": "9932d08b7aa7c929",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -127,15 +135,15 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
+    "H1 Economics/Law of Demand.md",
+    "H1 Economics/Demand.md",
+    "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Normal Goods.md",
     "H1 Economics/Asset Markets.md",
     "H1 Economics/Commodity Markets.md",
     "H1 Economics/Factors affecting demand.md",
     "H1 Economics/Types of Factors of production.md",
-    "H1 Economics/Factors affecting supply.md",
     "H1 Economics/G&S.md",
-    "Demand.md",
-    "README.md",
-    "assets/Pasted image 20220417150325.png"
+    "Demand.md"
   ]
 }
