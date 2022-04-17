@@ -16,4 +16,4 @@ As higher prices could result in higher profitability, producers channel resourc
 In this way, prices enable scarce resources to be allocated among competing uses. 
 
 ## Rationing function
-Prices also serve to ration goods and services to consumers who are the most willing and able to pay for them
+Prices also serve to #ration goods and services to consumers who are the most willing and able to pay for them. When there is a shortage of the good, consumers will bid up the price of it. As the rice of the good increases, those who are unwilling or unable to pay more will drop out of the market, whereas those who are willing and able to pay the higher price will get to purchase the good. Hence, price changes allow goods in shortage to be rationed to those with effective demand; are willing and able to pay for the good at the market price determined by demand and supply.

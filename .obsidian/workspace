@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,6 +84,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "82869c53f8dfa008",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           },
@@ -131,17 +140,9 @@
               "type": "stats-tracker",
               "state": {}
             }
-          },
-          {
-            "id": "8e046e091e678526",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -150,14 +151,14 @@
   "active": "5d09daed6a75a9a3",
   "lastOpenFiles": [
     "assets/test.excalidraw.md",
-    "assets/YOU!!!!.excalidraw.md",
-    "assets/Tutition industry in China 2022-04-17 20.25.45.excalidraw.md",
-    "GP Presentations/Tutition industry in China.md",
     "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Types of Factors of production.md",
+    "assets/YOU!!!!.excalidraw.md",
     "H1 Economics/Supply.md",
     "README.md",
     "H1 Economics/Commodity Markets.md",
-    "H1 Economics/Asset Markets.md"
+    "H1 Economics/Asset Markets.md",
+    "H1 Economics/Demand.md",
+    "H1 Economics/Effects of supply and demand on price and quantity.md"
   ]
 }
