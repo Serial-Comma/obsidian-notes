@@ -47,7 +47,7 @@ sudo pacman -S git
 cd Documents/
 git clone https://github.com/Serial-Comma/obsidian-notes.git
 ```
-~~if you dont use arch like me you probably are actually intelligent enough to figure it our yourself time~~
+~~if you dont use arch like me you probably are actually intelligent enough to figure it out yourself~~
 
 ### Mac
 ~~1) dont use mac~~
