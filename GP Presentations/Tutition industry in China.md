@@ -23,5 +23,3 @@ Other countries might take regulations from China as reference
 
 Is tution a real solution to students for improving their aecha
 or is it just adding more stress?
-
-
