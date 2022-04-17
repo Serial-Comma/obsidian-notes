@@ -25,6 +25,8 @@ This applies for [[Normal Goods]]
 But there are exceptions for [[Inferior goods]], such as poorer cuts of meat.
 People’s income rises→ Want to switch to better quality goods → Spend less and reduce demand for [[Inferior Goods]]
 
+### Amount of Derived Demand
+Derived Demand is the demand for goods which are not demanded for its own use, but is used to facilitate the production of another. For example, the demand for leather is
 
 ## Price of related goods:
 ### Price of substitute goods
