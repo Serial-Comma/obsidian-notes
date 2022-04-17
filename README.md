@@ -12,7 +12,8 @@ dont expect them to be legible
 ### and this
 #### and this
 ###### and this
-![[Pasted image 20220417185355.png]]
+![image](https://user-images.githubusercontent.com/47783328/163711578-788fd911-fa8f-4c89-a21b-ca07d2b97630.png)
+
 ## How to use:
 
 I make my notes using the [Obsidian note editor](https://obsidian.md/). If you don’t have it, download it (it's completely free and is also really cool) from the hyperlink to view my notes (many things wont look right if you dont)
