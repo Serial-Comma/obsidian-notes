@@ -72,7 +72,7 @@ Exectomg lower prices → Increases current supply
 ### Price of goods in joint supply
 Goods in joint supply are when the production of one good leads to the production of another good. Increase in supply for one good → Increase in supply for the other good
 
-Example: Beef and leather are in joint supply because slaughtered cows provide both beef and leather. Price of beef increases → Increase in _Qs_ of beef → More cows are slaughtered → Leather supply increases
+Example: Beef and leather are in joint supply because slaughtered cows provide both beef and leather. Price of beef increases → Increase in $Q_{s}$ of beef → More cows are slaughtered → Leather supply increases
 
 ### Price of goods in competitive supply
 Goods in competitive supply compete for the use of the same inputs. For these kinds of goods. Increase in price of one good → Decrease in supply of the other.
