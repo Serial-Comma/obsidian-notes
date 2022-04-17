@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2022/3/17": 444,
-    "2022/3/18": 340
+    "2022/3/18": 368
   },
   "todaysWordCount": {
     "GP Presentations/Tutition industry in China.md": {
@@ -14,7 +14,7 @@
     },
     "Untitled.md": {
       "initial": 1,
-      "current": 0
+      "current": 5
     },
     "{p}.md": {
       "initial": 0,
@@ -55,6 +55,10 @@
     "Opportunity cost.md": {
       "initial": 5,
       "current": 13
+    },
+    "Scarcity, Choice and Opportunity cost.md": {
+      "initial": 5,
+      "current": 29
     }
   }
 }
