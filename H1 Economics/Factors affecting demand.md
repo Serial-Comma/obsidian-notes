@@ -26,7 +26,14 @@ But there are exceptions for [[Inferior goods]], such as poorer cuts of meat.
 People’s income rises→ Want to switch to better quality goods → Spend less and reduce demand for [[Inferior Goods]]
 
 ### Amount of Derived Demand
-Derived Demand is the demand for goods which are not demanded for its own use, but is used to facilitate the production of another. For example, the demand for leather is
+Derived Demand is the demand for goods which are not demanded for its own use, but is used to facilitate the production of another. For example, the demand for leather is derived from the demand for leather wallets, so
+
+Demand for leather goods increases → Demand for leather increases
+
+### Ease of Acquiring Credit
+Consumers borrow to finance big purchases like property, furniture, household appliances, cars, holidays and education. 
+Easier credit conditions, such as lower in
+
 
 ## Price of related goods:
 ### Price of substitute goods
