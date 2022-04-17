@@ -61,7 +61,7 @@ For example,
 
 ### Government policies
 Example: 
-Monetary Authority of 
+Monetary Authority of Singapore (MAS) imposed regulations that limit car loans for some categories of private cars to no more than 70% of the purchase price and the repayment period to no more than 7 years.
 ## Price of related goods:
 ### Price of substitute goods
 
