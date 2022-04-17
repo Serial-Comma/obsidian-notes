@@ -22,7 +22,7 @@ Generally,
 People’s income rises → Purchasing power increases → Demand for most goods increase
 This applies for [[Normal Goods]]
 
-But there are exceptions for [[Inferior goods]], such as poorer cuts of meat.
+But there are exceptions for [[Inferior Goods]], such as poorer cuts of meat.
 People’s income rises→ Want to switch to better quality goods → Spend less and reduce demand for [[Inferior Goods]]
 
 ### Amount of Derived Demand

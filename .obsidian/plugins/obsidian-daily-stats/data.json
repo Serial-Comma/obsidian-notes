@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2022/3/17": 444,
-    "2022/3/18": 368
+    "2022/3/18": 389
   },
   "todaysWordCount": {
     "GP Presentations/Tutition industry in China.md": {
@@ -58,7 +58,15 @@
     },
     "Scarcity, Choice and Opportunity cost.md": {
       "initial": 5,
-      "current": 29
+      "current": 33
+    },
+    "H1 Economics/Scarcity, Choice and Opportunity cost.md": {
+      "initial": 33,
+      "current": 38
+    },
+    "Inferior Goods.md": {
+      "initial": 0,
+      "current": 12
     }
   }
 }
