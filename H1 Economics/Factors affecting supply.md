@@ -5,4 +5,4 @@ Supply increases → Curve shifts rightwards
 Supply decreases → Curve shifts leftwards
 
 ### Change in input Prices
-Increase in price of factor inputs
+Increase in price of factor inputs (like labor or rent) → Increase cost of production → 
