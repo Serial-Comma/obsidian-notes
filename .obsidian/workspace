@@ -7,9 +7,11 @@
         "id": "0c6aa3d67fe6400d",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "assets/Pasted image 20220417150325.png"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20220417150325.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20220417150325.png"
+                "file": "README.md"
               }
             }
           },
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20220417150325.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,15 +151,15 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
+    "README.md",
+    "GP Presentations/Tutition industry in China.md",
+    "assets/test.excalidraw.md",
+    "assets/Pasted image 20220417135255.png",
     "assets/Pasted image 20220417150325.png",
     "assets/Pasted image 20220417163302.png",
     "assets/Pasted image 20220417164006.png",
     "assets/Tutition industry in China 2022-04-17 18.24.17.excalidraw.md",
-    "assets/test.excalidraw.md",
-    "GP Presentations/Tutition industry in China.md",
     "Excalidraw/Drawing 2022-04-17 18.18.35.excalidraw.svg",
-    "H1 Economics/Factors affecting supply.md",
-    "H1 Economics/G&S.md",
-    "H1 Economics/Demand.md"
+    "H1 Economics/Factors affecting supply.md"
   ]
 }
