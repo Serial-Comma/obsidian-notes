@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
-            "mode": "preview",
-            "source": true
+            "file": "Role of prices in a free market.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
+                "file": "Role of prices in a free market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Effects of supply and demand on price and quantity.md"
+                "file": "Role of prices in a free market.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
+                "file": "Role of prices in a free market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -143,6 +143,7 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
+    "Role of prices in a free market.md",
     "H1 Economics/Effects of supply and demand on price and quantity.md",
     "H1 Economics/Factors affecting demand.md",
     "H1 Economics/Law of supply.md",
@@ -151,7 +152,6 @@
     "H1 Economics/Asset Markets.md",
     "H1 Economics/Demand.md",
     "H1 Economics/Law of Diminishing Marginal Utility.md",
-    "H1 Economics/Law of Demand.md",
-    "H1 Economics/Normal Goods.md"
+    "H1 Economics/Law of Demand.md"
   ]
 }
