@@ -22,7 +22,7 @@ I make my notes using the [Obsidian note editor](https://obsidian.md/). If you d
 ### Windows
 
 1) Open PowerShell by pressing Win and type “PowerShell”. Right click the program, and press ‘Run as Administrator’.
-![image](https://user-images.githubusercontent.com/47783328/163711644-b87cd405-1f15-407f-8b53-c610fa8076b0.png)
+![image](https://user-images.githubusercontent.com/47783328/163711730-79ef05fc-dfab-45ff-8171-02e0dc7a525f.png)
 
 2) If you’re actually following this, it's likely you don’t have `git`. Type this into the PowerShell Window:
 ```
