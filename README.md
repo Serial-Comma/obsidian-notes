@@ -10,10 +10,10 @@ dont expect them to be legible
 
 
 ## How to use:
-I make my notes using the [Obsidian note editor](https://obsidian.md/).
 
+I make my notes using the [Obsidian note editor](https://obsidian.md/). If you don’t have it, download it (it's completely free and is also really cool) from the hyperlink to view my notes (many things wont look right if you dont)
 
-If on Windows:
+### Windows
 
 1) Open PowerShell by pressing Win and type “PowerShell”. Right click the program, and press ‘Run as Administrator’.
 ![[Pasted image 20220417183044.png]]
@@ -35,3 +35,19 @@ git clone https://github.com/Serial-Comma/obsidian-notes.git
 7) You should be able to view and edit it like normal.
 
 
+### Linux
+```
+sudo pacman -S git
+cd Documents/
+git clone https://github.com/Serial-Comma/obsidian-notes.git
+```
+~~if you dont use arch you might have a worse time~~
+
+### Mac
+dont use mac
+
+
+
+
+
+## Contr

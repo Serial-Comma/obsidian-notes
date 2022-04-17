@@ -3,7 +3,9 @@
   "livePreview": true,
   "promptDelete": false,
   "spellcheckDictionary": [
-    "im"
+    "im",
+    "wont",
+    "dont"
   ],
   "pdfExportSettings": {
     "pageSize": "A4",
