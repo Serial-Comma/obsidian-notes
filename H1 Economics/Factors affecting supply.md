@@ -6,7 +6,7 @@ Supply decreases → Curve shifts leftwards
 
 ![[Pasted image 20220417135255.png]]
 
-
+_for everything below assume cetris paribus_
 
 ### Change in input Prices
 →Increase in price of factor inputs (like labor or rent) 
@@ -39,9 +39,18 @@ Example: Adopting digital systems that integrate machines, computers and humans 
 → Indirect subsidies (grants) by govenment
 → Decrease cost of production 
 → Increase profitablity
-→ Increase supply _cetris paribus_
+→ Increase supply
+→ Supply curve shifts right
 
 → Indirect taxes by government
 → Increase cost of production as producer will incur additional costs of paying the tax
 → Decrease profitablity
 → Decrease supply 
+→ Supply curve shifts left
+
+### Number and size of firms
+→ New firms enter 
+→ Supply increases
+
+→ Increase in size of firms
+→ Incase industriee
