@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Role of prices in a free market.md",
+            "file": "Nomative Statement.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Role of prices in a free market.md",
+                "file": "Nomative Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Role of prices in a free market.md"
+                "file": "Nomative Statement.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Role of prices in a free market.md",
+                "file": "Nomative Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -150,6 +151,8 @@
   },
   "active": "5d09daed6a75a9a3",
   "lastOpenFiles": [
+    "Nomative Statement.md",
+    "H1 Economics/Definitions/Positive Statement.md",
     "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Definitions/Law of Supply.md",
     "H1 Economics/Definitions/Law of Demand.md",
@@ -157,8 +160,6 @@
     "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Types of Factors of production.md",
     "H1 Economics/Effects of supply and demand on price and quantity.md",
-    "H1 Economics/Factors affecting demand.md",
-    "H1 Economics/Definitions/Law of Diminishing Marginal Utility.md",
-    "assets/test.excalidraw.md"
+    "H1 Economics/Factors affecting demand.md"
   ]
 }
