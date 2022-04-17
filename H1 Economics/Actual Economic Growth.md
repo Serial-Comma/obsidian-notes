@@ -1,0 +1,2 @@
+# Actual Economic Growth
+Actual Economic Growth is the realized increase in real national output for a given period of time, and can be illustrated by a movement of a point withing a [[Production Possibility Curve (PPC)]] to a point to or on the boundary of the PPC. 
