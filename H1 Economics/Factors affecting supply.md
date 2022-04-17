@@ -61,4 +61,9 @@ Example: Adopting digital systems that integrate machines, computers and humans 
 ### Price of goods in joint supply
 Goods in joint supply are when the production of one good leads to the production of another good. Increase in supply for one good → Increase in supply for the other good
 
-Example: Beef and leather are in joint supply because slaughtered cows provide both beef and leather. Price of beef increases → Increase in _Qs_ of 
+Example: Beef and leather are in joint supply because slaughtered cows provide both beef and leather. Price of beef increases → Increase in _Qs_ of beef → More cows are slaughtered → Leather supply increases
+
+### Price of goods in competitive supply
+Goods in competitive supply compete for the use of the same inputs. For these kinds of goods. Increase in price of one good → Decrease in supply of the other.
+
+Example: Leather handbags and leather shoes are in competitive supply since both goods use leather as an input. Price of Leather handbags increase → Qs of Leather handbags increases → More leather diverted to producing leather handbags as its more profitable -.
