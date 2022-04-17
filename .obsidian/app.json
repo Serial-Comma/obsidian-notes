@@ -15,5 +15,7 @@
   },
   "showLineNumber": true,
   "spellcheck": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "current"
 }

@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d09daed6a75a9a3",
+        "id": "a9780e7ab5316243",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "H1 Economics/Production Possibility Curve (PPC).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -19,7 +23,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2c402e3cc399b4ac",
+        "id": "f57904fe14942295",
         "type": "tabs",
         "children": [
           {
@@ -46,10 +50,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "b37ee75bd2b1c684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d09daed6a75a9a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295
+    "width": 396
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -65,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "H1 Economics/Production Possibility Curve (PPC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "H1 Economics/Production Possibility Curve (PPC).md"
+              }
             }
           },
           {
@@ -105,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "H1 Economics/Production Possibility Curve (PPC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +163,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5d09daed6a75a9a3",
+  "active": "a9780e7ab5316243",
   "lastOpenFiles": [
-    "Untitled.md",
     "H1 Economics/Production Possibility Curve (PPC).md",
+    "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Effects of supply and demand on price and quantity.md",
-    "H1 Economics/Factors affecting demand.md",
-    "wasd.md",
     "H1 Economics/Scarcity, Choice and Opportunity cost.md",
     "H1 Economics/Types of Factors of production.md",
-    "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Inferior Goods.md",
-    "H1 Economics/Opportunity cost.md"
+    "H1 Economics/Opportunity cost.md",
+    "H1 Economics/Role of prices in a free market.md",
+    "H1 Economics/Factors affecting demand.md",
+    "Untitled.md"
   ]
 }
