@@ -53,4 +53,10 @@ Example: Adopting digital systems that integrate machines, computers and humans 
 → Supply increases
 
 → Increase in size of firms
-→ Incase industriee
+→ Increase industry’s capacity
+→ Supply increases
+
+## Price of Related goods:
+
+### Price of goods in joint supply
+Goods in joint supply are when the production of one good leads to the production of another good. Increase in supply for one good → Increase in supply for the other good
