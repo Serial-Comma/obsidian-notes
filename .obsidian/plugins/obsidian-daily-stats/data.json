@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2022/3/17": 444,
-    "2022/3/18": 133
+    "2022/3/18": 236
   },
   "todaysWordCount": {
     "GP Presentations/Tutition industry in China.md": {
@@ -43,6 +43,10 @@
     "Normative Statement.md": {
       "initial": 14,
       "current": 73
+    },
+    "H1 Economics/Types of Factors of production.md": {
+      "initial": 11,
+      "current": 114
     }
   }
 }
