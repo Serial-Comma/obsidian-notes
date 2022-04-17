@@ -20,6 +20,7 @@ Weather conditions can also cause demand to change in favor of a good, such as i
 ### Level of income
 Generally,
 People’s income rises → Purchasing power increases → Demand for most goods increase
+This applies for [[Normal Goods]]
 
 But there are exceptions like
 
