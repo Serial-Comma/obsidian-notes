@@ -46,7 +46,7 @@ Expected price increase → Buyers bring forward purchases to buy more before pr
 
 Expected price decrease → Buyers hold back purchases to only buy when price is lower → Current demand decreases
 
-These speculations often exacerbate price fluctuations and volatility in a market, and can be witnessed in both [[Asset Markets]] and [[Commodity Markets]]. 
+These speculations often exacerbate price fluctuations and volatility in a market, and can be witnessed in both [[Asset Markets]] and [[Commodity Markets]]. Yes, speculations also involve the purchase of goods to earn a profit from its sale later if its price increases (im looking at you GPU scalpers).
 
 ### Exchange Rates
 Exchange rates are the rate one country’s currency can be exchanged for another currency.

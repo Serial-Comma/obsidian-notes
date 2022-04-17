@@ -7,12 +7,8 @@
         "id": "0c6aa3d67fe6400d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "H1 Economics/Factors affecting demand.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Factors affecting demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,21 +92,11 @@
             }
           },
           {
-            "id": "e8ccbb988bea1093",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
             "id": "98eba581dd997a2e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "H1 Economics/Factors affecting demand.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,14 +105,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Factors affecting demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "3de0f4013ee6e8da",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -135,15 +127,15 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
-    "H1 Economics/Factors affecting demand.md",
-    "H1 Economics/Commodity Markets.md",
+    "H1 Economics/Normal Goods.md",
     "H1 Economics/Asset Markets.md",
+    "H1 Economics/Commodity Markets.md",
+    "H1 Economics/Factors affecting demand.md",
+    "H1 Economics/Types of Factors of production.md",
     "H1 Economics/Factors affecting supply.md",
     "H1 Economics/G&S.md",
-    "H1 Economics/Normal Goods.md",
     "Demand.md",
     "README.md",
-    "assets/Pasted image 20220417150325.png",
-    "assets/Pasted image 20220417135255.png"
+    "assets/Pasted image 20220417150325.png"
   ]
 }
