@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2022/3/17": 444,
-    "2022/3/18": 683
+    "2022/3/18": 731
   },
   "todaysWordCount": {
     "GP Presentations/Tutition industry in China.md": {
@@ -74,7 +74,7 @@
     },
     "H1 Economics/Production Possibility Curve (PPC).md": {
       "initial": 10,
-      "current": 170
+      "current": 173
     },
     "H1 Economics/Actual Economic Growth.md": {
       "initial": 0,
@@ -82,7 +82,7 @@
     },
     "H1 Economics/Potential Economic Growth.md": {
       "initial": 1,
-      "current": 75
+      "current": 120
     }
   }
 }
