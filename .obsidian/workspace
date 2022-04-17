@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Price",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,6 +136,7 @@
   "lastOpenFiles": [
     "H1 Economics/Factors affecting demand.md",
     "H1 Economics/Factors affecting supply.md",
+    "Demand.md",
     "README.md",
     "assets/Pasted image 20220417150325.png",
     "assets/Pasted image 20220417135255.png",

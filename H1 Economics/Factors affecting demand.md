@@ -17,5 +17,11 @@ Tastes and preferences are influenced by reasons such as advertising, changes in
 
 Weather conditions can also cause demand to change in favor of a good, such as ice cream during summer.
 
+### Level of income
+Generally,
+People’s income rises → Purchasing power increases → Demand for most goods increase
+
+But there are exceptions like
+
 ## Price of related goods:
 ### Price of substitute goods
