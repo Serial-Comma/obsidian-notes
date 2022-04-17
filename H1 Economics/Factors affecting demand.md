@@ -46,6 +46,10 @@ Expected price increase → Buyers bring forward purchases to buy more before pr
 
 Expected price decrease → Buyers hold back purchases to only buy when price is lower → Current demand decreases
 
+These speculations often exacerbate price fluctuations and volatility in a market, and can be witnessed in both [[Asset Markets]] and [[Commodity Markets]]. 
+
+### Exchange Rates
+
 
 ## Price of related goods:
 ### Price of substitute goods
