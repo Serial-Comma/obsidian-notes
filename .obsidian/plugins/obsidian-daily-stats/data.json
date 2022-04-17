@@ -1,19 +1,12 @@
 {
   "dayCounts": {
-    "2022/3/17": 444
+    "2022/3/17": 444,
+    "2022/3/18": 0
   },
   "todaysWordCount": {
     "GP Presentations/Tutition industry in China.md": {
-      "initial": 139,
+      "initial": 124,
       "current": 124
-    },
-    "README.md": {
-      "initial": 11,
-      "current": 366
-    },
-    "H1 Economics/Role of prices in a free market.md": {
-      "initial": 244,
-      "current": 333
     }
   }
 }
