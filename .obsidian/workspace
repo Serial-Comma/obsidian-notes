@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -115,6 +114,9 @@
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
     "H1 Economics/Factors affecting supply.md",
+    "assets.md",
+    "Pasted image 20220417135157.png",
+    "assets/Pasted image 20220417135255.png",
     "GP Presentations/Tutition industry in China.md",
     "(please don’t) README.md"
   ]
