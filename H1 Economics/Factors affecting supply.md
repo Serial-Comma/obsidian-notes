@@ -26,3 +26,16 @@ Similarly,
 → Higher productivity (more output produced with same amount of resources)
 → Decrease cost of production
 → Increase production profitablity 
+→ Increases supply of good _cetris paribus_
+
+Example: Adopting digital systems that integrate machines, computers and humans → Enhances productivity of firms → Lower cost of production → Increase profitablity → Increase supply of good
+
+### Government policies
+→ Indirect subsidies (grants) by govenment
+→ Decrease cost of production of producers
+→ Increase production profitablity
+→ Increase supply of good _cetris paribus_
+
+→ Indirect taxes by government
+→ Increase cost of production as producer will incur additional costs of paying tax
+→
