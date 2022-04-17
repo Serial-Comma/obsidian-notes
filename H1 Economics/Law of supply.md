@@ -7,4 +7,5 @@ There is a direct relationship between price and quantity supplied. Diagrammatic
 ![[Pasted image 20220417164006.png]]
 
 There are two reasons for this direct relationship:
-- As firms produce increasing amounts of a good, they are likely to find that the toal costs of production will rise more and more rapidly. This is because workers have to bepaid for wokring overtime and the maintenance costs of machines increase as they are used continiously for longer time periods. If higher output involves higher marginal costs of productionm
+- As firms produce increasing amounts of a good, they are likely to find that the total costs of production will rise more and more rapidly. This is because workers have to be paid for working overtime, and the maintenance costs of machines increase as they are used continuously for longer time periods. If higher output involves higher marginal costs of production, producers will need to get a higher price if they are persuaded to produce extra output. Seen from this perspective, the supply curve shows the minimum price that producers expect to receive for each additional unit of output.
+- The higher the price of the good, the greater the revenue earned, and hence the more profitable it becomes to produce this good.0 Firms will thus be encouraged to produce more of this good by switching away from producing less profitable goods.

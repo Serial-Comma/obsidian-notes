@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Law of supply.md",
+            "file": "Effects of supply and demand on a given market.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Law of supply.md",
+                "file": "Effects of supply and demand on a given market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Law of supply.md"
+                "file": "Effects of supply and demand on a given market.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Law of supply.md",
+                "file": "Effects of supply and demand on a given market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +135,7 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
+    "Effects of supply and demand on a given market.md",
     "H1 Economics/Law of supply.md",
     "H1 Economics/Supply.md",
     "H1 Economics/Commodity Markets.md",
@@ -143,7 +144,6 @@
     "H1 Economics/Law of Diminishing Marginal Utility.md",
     "H1 Economics/Law of Demand.md",
     "H1 Economics/Normal Goods.md",
-    "H1 Economics/Types of Factors of production.md",
-    "H1 Economics/Factors affecting supply.md"
+    "H1 Economics/Types of Factors of production.md"
   ]
 }
