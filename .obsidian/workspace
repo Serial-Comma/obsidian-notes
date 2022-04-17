@@ -7,11 +7,9 @@
         "id": "5d09daed6a75a9a3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "H1 Economics/Role of prices in a free market.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/Tutition industry in China 2022-04-17 20.25.45.excalidraw.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Role of prices in a free market.md",
+                "file": "assets/Tutition industry in China 2022-04-17 20.25.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Role of prices in a free market.md"
+                "file": "assets/Tutition industry in China 2022-04-17 20.25.45.excalidraw.md"
               }
             }
           },
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Role of prices in a free market.md",
+                "file": "assets/Tutition industry in China 2022-04-17 20.25.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,15 +149,15 @@
   },
   "active": "5d09daed6a75a9a3",
   "lastOpenFiles": [
-    "H1 Economics/Role of prices in a free market.md",
-    "H1 Economics/Types of Factors of production.md",
+    "assets/Tutition industry in China 2022-04-17 20.25.45.excalidraw.md",
+    "GP Presentations/Tutition industry in China.md",
     "assets/YOU!!!!.excalidraw.md",
     "assets/test.excalidraw.md",
+    "H1 Economics/Role of prices in a free market.md",
+    "H1 Economics/Types of Factors of production.md",
     "H1 Economics/Supply.md",
     "README.md",
     "H1 Economics/Commodity Markets.md",
-    "H1 Economics/Asset Markets.md",
-    "H1 Economics/Demand.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md"
+    "H1 Economics/Asset Markets.md"
   ]
 }
