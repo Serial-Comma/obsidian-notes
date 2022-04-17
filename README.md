@@ -6,9 +6,13 @@
 sch notes
 dont expect them to be legible
 
-
-
-
+## What it looks like
+# like this
+## and this
+### and this
+#### and this
+###### and this
+![[Pasted image 20220417185355.png]]
 ## How to use:
 
 I make my notes using the [Obsidian note editor](https://obsidian.md/). If you don’t have it, download it (it's completely free and is also really cool) from the hyperlink to view my notes (many things wont look right if you dont)
@@ -52,4 +56,4 @@ git clone https://github.com/Serial-Comma/obsidian-notes.git
 ~~Please don’t contribute~~
 uhh contribute whatever you think is cool and PR it ill probably merge it idk
 
-also make sure to put any 
+also make sure to put any images or drawings in the ‘assets’ folder
