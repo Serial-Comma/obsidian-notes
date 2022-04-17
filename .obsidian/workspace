@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Factors affecting demand.md",
+            "file": "GP Presentations/Tutition industry in China.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Factors affecting demand.md",
+                "file": "GP Presentations/Tutition industry in China.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Factors affecting demand.md"
+                "file": "GP Presentations/Tutition industry in China.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Factors affecting demand.md",
+                "file": "GP Presentations/Tutition industry in China.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,6 +133,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f49c1b334ebba8a5",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -143,6 +151,7 @@
   },
   "active": "0c6aa3d67fe6400d",
   "lastOpenFiles": [
+    "GP Presentations/Tutition industry in China.md",
     "H1 Economics/Factors affecting demand.md",
     "Role of prices in a free market.md",
     "README.md",
@@ -151,7 +160,6 @@
     "H1 Economics/Supply.md",
     "H1 Economics/Commodity Markets.md",
     "H1 Economics/Asset Markets.md",
-    "H1 Economics/Demand.md",
-    "H1 Economics/Law of Diminishing Marginal Utility.md"
+    "H1 Economics/Demand.md"
   ]
 }
