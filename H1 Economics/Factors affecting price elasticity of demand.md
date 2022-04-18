@@ -21,3 +21,6 @@ Specific brand of Coffee like Nescafe -> Many close substitutes in other brands 
 
 Coffee in general -> Fewer close substitutes as other beverages like tea, cocoa drinks, milk and soft drinks taste significantly different -> weak substitutes -> Lower price elasticity
 
+
+### Time to respond to price changes
+The price elasticity of demand generally increases with time. It takes time for consumers to recognize and to respond fully to a change in price of a good and to change their spending habits.
