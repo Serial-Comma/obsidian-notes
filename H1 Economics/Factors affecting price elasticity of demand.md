@@ -41,4 +41,12 @@ Greater degree of necessity -> Lower price elasticity
 
 When consumers are faced with price increases, consumers are more likely to cut back on their wants instead of their needs, causing the price elasticity of their wants to be lower.
 
-[[Addictive goods]] like cigarettes and narcotic drugs are more likely to have a higher d
+[[Addictive goods]] like cigarettes and narcotic drugs are more likely to have a higher degree of necessity by those who are addicted to them, and have very inelastic demand.
+
+### Proportion of income
+Larger proportion of income spent -> Consumers more likely to shop around for cheaper substitutes -> Higher price elasticity
+
+For example,
+If there is a 10% increase in the price of different goods, the absolute increase in price faced by consumers is larger for an expensive good than for a cheaper good. 
+Expensive goods -> Higher price elasticity
+Cheaper goods -> Lower price elasticity
