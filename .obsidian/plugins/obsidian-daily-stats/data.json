@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2022/3/17": 444,
-    "2022/3/18": 744
+    "2022/3/18": 797
   },
   "todaysWordCount": {
     "GP Presentations/Tutition industry in China.md": {
@@ -83,6 +83,10 @@
     "H1 Economics/Potential Economic Growth.md": {
       "initial": 1,
       "current": 133
+    },
+    "H1 Economics/Factors affecting price elasticity of demand.md": {
+      "initial": 0,
+      "current": 53
     }
   }
 }

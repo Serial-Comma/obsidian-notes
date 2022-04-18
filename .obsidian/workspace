@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Factors affecting supply.md",
-            "mode": "preview",
+            "file": "H1 Economics/Factors affecting price elasticity of demand.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Factors affecting supply.md",
+                "file": "H1 Economics/Factors affecting price elasticity of demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Factors affecting supply.md"
+                "file": "H1 Economics/Factors affecting price elasticity of demand.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Factors affecting supply.md",
+                "file": "H1 Economics/Factors affecting price elasticity of demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,6 +167,7 @@
   },
   "active": "a9780e7ab5316243",
   "lastOpenFiles": [
+    "H1 Economics/Factors affecting price elasticity of demand.md",
     "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Factors of production.md",
     "H1 Economics/Inferior Goods.md",
@@ -175,7 +176,6 @@
     "H1 Economics/Production Possibility Curve (PPC).md",
     "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Scarcity, Choice and Opportunity cost.md",
-    "assets/Example PPC.md",
-    "H1 Economics/Actual Economic Growth.md"
+    "assets/Example PPC.md"
   ]
 }
