@@ -38,3 +38,7 @@ Shorter time to respond -> Lower price elasticity
 
 ### Degree of necessity
 Greater degree of necessity -> Lower price elasticity
+
+When consumers are faced with price increases, consumers are more likely to cut back on their wants instead of their needs, causing the price elasticity of their wants to be lower.
+
+[[Addictive goods]] like cigarettes and narcotic drugs are more likely to have a higher d
