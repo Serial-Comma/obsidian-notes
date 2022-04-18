@@ -19,3 +19,5 @@ Narrower the definition of  good -> Greater [[#Availability of substitutes]] -> 
 Example:
 Specific brand of Coffee like Nescafe -> Many close substitutes in other brands -> Greater price elasticity 
 
+Coffee in general -> Fewer close substitutes as other beverages like tea, cocoa drinks, milk and soft drinks taste significantly different -> weak substitutes -> Lower price elasticity
+
