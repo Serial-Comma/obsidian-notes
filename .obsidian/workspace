@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Potential Economic Growth.md",
+            "file": "H1 Economics/Factors affecting supply.md",
             "mode": "preview",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "f57904fe14942295",
         "type": "tabs",
+        "dimension": 70.49009384775809,
         "children": [
           {
             "id": "bc5f8d252d6c8f4a",
@@ -54,6 +55,7 @@
       {
         "id": "b37ee75bd2b1c684",
         "type": "tabs",
+        "dimension": 29.509906152241918,
         "children": [
           {
             "id": "5d09daed6a75a9a3",
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396
+    "width": 320
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Potential Economic Growth.md",
+                "file": "H1 Economics/Factors affecting supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Potential Economic Growth.md"
+                "file": "H1 Economics/Factors affecting supply.md"
               }
             }
           },
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Potential Economic Growth.md",
+                "file": "H1 Economics/Factors affecting supply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,15 +167,15 @@
   },
   "active": "a9780e7ab5316243",
   "lastOpenFiles": [
+    "H1 Economics/Factors affecting supply.md",
+    "H1 Economics/Factors of production.md",
+    "H1 Economics/Inferior Goods.md",
+    "H1 Economics/Opportunity cost.md",
     "H1 Economics/Potential Economic Growth.md",
     "H1 Economics/Production Possibility Curve (PPC).md",
     "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Scarcity, Choice and Opportunity cost.md",
     "assets/Example PPC.md",
-    "H1 Economics/Actual Economic Growth.md",
-    "H1 Economics/Factors of production.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md",
-    "H1 Economics/Factors affecting supply.md",
-    "H1 Economics/Inferior Goods.md"
+    "H1 Economics/Actual Economic Growth.md"
   ]
 }
