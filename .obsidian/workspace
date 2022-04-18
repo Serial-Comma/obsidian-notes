@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "a9780e7ab5316243",
+        "id": "ab8cb8178e23958d",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -157,7 +157,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a9780e7ab5316243",
+  "active": "ab8cb8178e23958d",
   "lastOpenFiles": [
     "H1 Economics/Production Possibility Curve (PPC).md",
     "H1 Economics/Potential Economic Growth.md",
