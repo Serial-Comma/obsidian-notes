@@ -1,5 +1,5 @@
 # Factors affecting [[price elasticity]] of [[demand]]
-### Availability substitutes
+### Availability of substitutes
 Greater availability of substitutes -> Increased price elasticity
 
 Example: 
@@ -9,4 +9,13 @@ A petrol kiosk with lots of competition -> More price elastic
 ### Closeness of substitutes
 Greater closeness of substitutes -> Increased price elasticity
 
-Closer substitutes -> Higher elas
+Example:
+Taste of sugar is similar regardless of brand of sugar -> High price elasticity
+Scent of Perfume is likely to be different depending on brand -> Low price elasticity
+
+#### Definition of Good
+Narrower the definition of  good -> Greater [[#Availability of substitutes]] -> Greater price elasticity
+
+Example:
+Specific brand of Coffee like Nescafe -> Many close substitutes in other brands -> Greater price elasticity 
+
