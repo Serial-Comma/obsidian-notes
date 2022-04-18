@@ -23,10 +23,18 @@ Coffee in general -> Fewer close substitutes as other beverages like tea, cocoa 
 
 
 ### Time to respond to price changes
-The price elasticity of demand generally increases with time. It takes time for consumers to recognize and to respond fully to a change in price of a good and to change their spending habits. Consumers need **time** to:
+It takes time for consumers to recognize and to respond fully to a change in price of a good and to change their spending habits, and this time is used to:
 - gather information, such as whether the price change is going to last 
 - discover alternatives before altering their consumption patterns in response to a change in price
-Example
-- Price of oil increases
+ 
+Example:
+- Price of oil increases.
 Short term impact -> $Q_{D}$  of oil does not fall (significantly) as people do not immediately cut down on their habits or switch to more fuel-efficient cars
-Long term impact -> 
+Long term impact -> Consumers switch their behavior by driving less or switching to more fuel efficient cars -> $Q_{D}$ of oil decreases
+
+Therefore, 
+Longer time to respond -> Greater price elasticity
+Shorter time to respond -> Lower price elasticity
+
+### Degree of necessity
+Greater degree of necessity -> Lower price elasticity
