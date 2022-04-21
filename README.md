@@ -57,7 +57,9 @@ git clone https://github.com/Serial-Comma/obsidian-notes.git
 ~~1) dont use mac~~
 1) Download obsidian 
 2) Follow Windows
-
+ 
+### ZIP
+[link](https://github.com/Serial-Comma/obsidian-notes/archive/refs/heads/main.zip)
 ## Contributing guidelines
 ~~Please don’t contribute~~
 uhh contribute whatever you think is cool and PR it ill probably merge it idk
