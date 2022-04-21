@@ -50,3 +50,7 @@ For example,
 If there is a 10% increase in the price of different goods, the absolute increase in price faced by consumers is larger for an expensive good than for a cheaper good. 
 Expensive goods -> Higher price elasticity
 Cheaper goods -> Lower price elasticity
+
+
+
+[[test.excalidraw]]
