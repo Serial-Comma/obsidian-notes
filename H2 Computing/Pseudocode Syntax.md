@@ -90,5 +90,17 @@ ENDFOR
 ## Selection
 `IF` does exactly what you think it does *if* it was consistent with Python
 ```C
-IF Number_of_lessons_with_n
+IF No_of_lessons_with_no_breaks_in_a_row <= 10 //Take note there is no : at the end
+	THEN
+		No_of_lesson_with_no_breaks <- No_of_lessons_with_no_breaks + 999
+	ELSE
+		PRINT "Screw You"
+ENDIF
+```
+you can also use `AND and OR` to smush multiple conditions together if you w
+```
+IF Uni_RP <=60 AND Daddy = "RICH"
+	THEN
+		UNI_RP <- 90
+ENDIF
 ```
