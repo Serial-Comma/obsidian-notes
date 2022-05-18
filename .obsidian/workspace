@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
+            "file": "H2 Computing/Pseudocode Syntax.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
+                "file": "H2 Computing/Pseudocode Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Effects of supply and demand on price and quantity.md"
+                "file": "H2 Computing/Pseudocode Syntax.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
+                "file": "H2 Computing/Pseudocode Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -165,6 +165,8 @@
   },
   "active": "a9780e7ab5316243",
   "lastOpenFiles": [
+    "H2 Computing/Pseudocode Syntax.md",
+    "H1 Economics/Untitled.md",
     "H1 Economics/Effects of supply and demand on price and quantity.md",
     "assets/Example PPC.md",
     "assets/test.excalidraw.md",
@@ -172,8 +174,6 @@
     "H1 Economics/Production Possibility Curve (PPC).md",
     "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Scarcity, Choice and Opportunity cost.md",
-    "H1 Economics/Actual Economic Growth.md",
-    "H1 Economics/Factors of production.md",
-    "H1 Economics/Factors affecting supply.md"
+    "H1 Economics/Actual Economic Growth.md"
   ]
 }

@@ -1,88 +1,13 @@
 {
   "dayCounts": {
     "2022/3/17": 444,
-    "2022/3/18": 744
+    "2022/3/18": 744,
+    "2022/4/18": 27
   },
   "todaysWordCount": {
-    "GP Presentations/Tutition industry in China.md": {
-      "initial": 124,
-      "current": 124
-    },
-    "H1 Economics/Definitions/Law of supply.md": {
-      "initial": 210,
-      "current": 210
-    },
-    "Untitled.md": {
-      "initial": 1,
-      "current": 5
-    },
-    "{p}.md": {
+    "H2 Computing/Pseudocode Syntax.md": {
       "initial": 0,
-      "current": 1
-    },
-    "Posit.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "Positive Statem.md": {
-      "initial": 2,
-      "current": 2
-    },
-    "Positive Statement.md": {
-      "initial": 3,
-      "current": 64
-    },
-    "Nomativ.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "Nomative Statement.md": {
-      "initial": 3,
-      "current": 13
-    },
-    "Normative Statement.md": {
-      "initial": 14,
-      "current": 73
-    },
-    "H1 Economics/Types of Factors of production.md": {
-      "initial": 11,
-      "current": 206
-    },
-    "Oppertunity cost.md": {
-      "initial": 0,
-      "current": 4
-    },
-    "Opportunity cost.md": {
-      "initial": 5,
-      "current": 13
-    },
-    "Scarcity, Choice and Opportunity cost.md": {
-      "initial": 5,
-      "current": 33
-    },
-    "H1 Economics/Scarcity, Choice and Opportunity cost.md": {
-      "initial": 33,
-      "current": 38
-    },
-    "Inferior Goods.md": {
-      "initial": 0,
-      "current": 12
-    },
-    "H1 Economics/Production Possiblity Curve (PPC).md": {
-      "initial": 1,
-      "current": 14
-    },
-    "H1 Economics/Production Possibility Curve (PPC).md": {
-      "initial": 10,
-      "current": 173
-    },
-    "H1 Economics/Actual Economic Growth.md": {
-      "initial": 0,
-      "current": 47
-    },
-    "H1 Economics/Potential Economic Growth.md": {
-      "initial": 1,
-      "current": 133
+      "current": 27
     }
   }
 }
