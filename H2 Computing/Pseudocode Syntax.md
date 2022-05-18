@@ -27,7 +27,7 @@ Syntax: `CONSTANT <'variable' name> = <value>`
 Constants don't exist in python,  thus making this very useful to our learning.
 Example:
 ```C
-CONSTANT Mr_Fong = "Asshole"  //You do not have to declare a constant before you assign a value to it for some reason
+CONSTANT Mr_Fong = "Boring"  //You do not have to declare a constant before you assign a value to it for some reason
 CONSTANT My_Uni_L1R5 = 69
 CONSTANT School_Budget = 0 //Also apparently instead of using <- it uses = ??? What bs is this
 ```
@@ -51,8 +51,7 @@ These exist:
 
 ## Input Output stuff
 
-`OUTPUT, PRINT, PUT, DISPLAY` are all the same thing as far as you are concerned. For (somewhat) consistency with Python just use `PRINT` for everything to make your life easier
-`WRITE` is your Python `file.write("Screw you")`
+`OUTPUT, PRINT, PUT, DISPLAY, WRITE` are all the same thing as far as you are concerned. For (somewhat) consistency with Python just use `PRINT` for everything to make your life easier
 
 ```C
 DISPLAY "You Failed"
@@ -65,13 +64,16 @@ OUTPUT 10
 `GET` is your Python `input("Why are you here")`
 and for some reason A level pseudocode doesn't have `INPUT` even thought it kind of exists in O level computing and output literally has `OUTPUT`
 ```
-READ Your_Mother
-GET His_Virginity
+READ Your_Brother
+GET Her_L1R5
 ```
 
 `OPENFILE` is your Python `open()`
 You will basically only use it like this:
-`OPENFILE text.csv FOR OUTPUT` is your Python `open(`
+`OPENFILE text.csv FOR OUTPUT` is your Python `open(text.csv, 'w')`
+`OPENFILE text.csv FOR INPUT` is your Python `open(text.csv, 'r')`
+
+also don't forget to `CLOSEFILE text.csv` when youre done
 
 ## Loops
 `WHILE-ENDWHILE` and `DOWHILE-ENDO` are the exact same thing ~~(even though while is supposed to be a precondition and dowhile is a postcondition irl???)~~ and are both precondition loops like your `while True:` in Python
