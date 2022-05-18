@@ -60,11 +60,12 @@ PUT "Your Uni RP was"
 OUTPUT 10
 ```
 
-`READ` and `GET` are basically the same thing are is your Python `input("Why are you here")`
+`READ`, `GET` and `PROMPT` are basically the same thing are is your Python `input("Why are you here")`
 and for some reason A level pseudocode doesn't have `INPUT` even thought it kind of exists in O level computing and output literally has `OUTPUT`
 ```
 READ Your_Brother
 GET Her_L1R5
+PROMPT Them_to_get_a_job
 ```
 
 ### File Processing Stuff
@@ -74,6 +75,9 @@ You will basically only use it like this:
 `OPENFILE text.csv FOR WRITE` is your Python `open(text.csv, 'w')`
 `OPENFILE text.csv FOR READ` is your Python `open(text.csv, 'r')`
 `OPENFILE text.csv FOR APPEND` is your Python `open(text.csv, 'a')`
+
+if for whatever reason you want to open the file with a random pointer you can do
+`OPENFILE binaryFile.exe FOR RANDOM`
 
 `READFILE` is used as:
 `READFILE text.csv, x`, where the next line of text in the file will be transferred into `x` (it is a string btw)
@@ -85,7 +89,10 @@ mode
 
 `SEEK text.csv, z` moves the pointer to line `z` in the file
 
-`GETRECORD text.csv, t` is basically a REA
+`GETRECORD text.csv, t` is basically a `READFILE` but it reads the current line `t` instead of the next line
+
+`PUTRECORD text.csv, j` is basically a `WRITEFILE` but it overrides the current line `j` instead of the next line
+
 
 also don't forget to `CLOSEFILE text.csv` when youre done
 
