@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396
+    "width": 396,
+    "collapsed": true
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -92,14 +93,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "0200bf794096660f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -157,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
