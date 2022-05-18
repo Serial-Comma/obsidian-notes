@@ -7,9 +7,11 @@
         "id": "a9780e7ab5316243",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "assets/Example PPC.md"
+            "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b37ee75bd2b1c684",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Example PPC.md",
+                "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Example PPC.md"
+                "file": "H1 Economics/Effects of supply and demand on price and quantity.md"
               }
             }
           },
@@ -125,18 +126,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Example PPC.md",
+                "file": "H1 Economics/Effects of supply and demand on price and quantity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "9932d08b7aa7c929",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
             }
           },
           {
@@ -154,9 +147,17 @@
               "type": "stats-tracker",
               "state": {}
             }
+          },
+          {
+            "id": "91c28e40ba732bb9",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,6 +165,7 @@
   },
   "active": "a9780e7ab5316243",
   "lastOpenFiles": [
+    "H1 Economics/Effects of supply and demand on price and quantity.md",
     "assets/Example PPC.md",
     "assets/test.excalidraw.md",
     "H1 Economics/Potential Economic Growth.md",
@@ -172,7 +174,6 @@
     "H1 Economics/Scarcity, Choice and Opportunity cost.md",
     "H1 Economics/Actual Economic Growth.md",
     "H1 Economics/Factors of production.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md",
     "H1 Economics/Factors affecting supply.md"
   ]
 }
