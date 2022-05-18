@@ -177,4 +177,13 @@ also the index of arrays in pseudocode start from 1 instead of 0. Why? Because f
 
 ## Functions
 
-`PROCEDURE`
+`PROCEDURE` is basically a more useless function because you cant return anything
+Syntax:
+`PROCEDURE name(x : INTEGER, y: STRING)`
+Example:
+```C
+PROCEDURE Amount_of_hours_of_sleep(x : INTEGER, y: INTEGER)
+	CASE 
+	GP_HW == TRUE: PRINT "10 Hours"
+	
+```
