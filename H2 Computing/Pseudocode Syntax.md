@@ -55,9 +55,11 @@ OUTPUT 10
 
 `READ` is your Python `file.read()`
 `GET` is your Python `input("Why are you here")`
-and for some reason A level pseudocode doesnt have `INPUT` even thought it literally exists in O level computing and output has `OUTPUT`
+and for some reason A level pseudocode doesn't have `INPUT` even thought it kind of exists in O level computing and output literally has `OUTPUT`
 ```
 READ Your_Mother
-GET 
+GET His_Virginity
 ```
 
+## Loops
+`WHILE-ENDWHILE` and `DOWHILE-ENDO` are the exact same thing 
