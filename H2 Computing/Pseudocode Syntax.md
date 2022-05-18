@@ -136,7 +136,18 @@ ENDCASE
 ```
 This is probably the closest thing to Python dictionaries as you can get in pseudocode.
 Its also a little more useful than dictionaries because it actually accepts ranges in its value which Python doesnt apparently
+```
+CASE OF possible_locations_in_school
+	audi_with_people: PRINT "Hell no"
+	audi_without_people: PRINT "If you're into it"
+	LT1 : arousal <- arousal - 2000
+	LT2 : arousal <- arousal + 2000
+	physics_lab <- PRINT "Hell no"
+	bio_lab <- PRINT "Hell yeah"
 
+	OTHERWISE PRINT "Lets just do it in a love hotel"
+ENDCASE
 ```
-CASE
-```
+
+## Arrays
+Unlike Python, Arrays in Pseudocode must always have a fixed and 
