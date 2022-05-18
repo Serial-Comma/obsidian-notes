@@ -4,16 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab8cb8178e23958d",
+        "id": "a9780e7ab5316243",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "H2 Computing/Pseudocode Syntax.md",
-=======
-            "file": "H1 Economics/Production Possibility Curve (PPC).md",
->>>>>>> 0583ae0574652245e18691e3927035626a39381a
             "mode": "source",
             "source": false
           }
@@ -29,7 +25,6 @@
       {
         "id": "f57904fe14942295",
         "type": "tabs",
-        "dimension": 70.49009384775808,
         "children": [
           {
             "id": "bc5f8d252d6c8f4a",
@@ -59,7 +54,6 @@
       {
         "id": "b37ee75bd2b1c684",
         "type": "tabs",
-        "dimension": 29.509906152241918,
         "children": [
           {
             "id": "5d09daed6a75a9a3",
@@ -73,12 +67,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 396,
-    "collapsed": true
-=======
-    "width": 320
->>>>>>> 0583ae0574652245e18691e3927035626a39381a
+    "width": 396
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -94,11 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "H2 Computing/Pseudocode Syntax.md",
-=======
-                "file": "H1 Economics/Production Possibility Curve (PPC).md",
->>>>>>> 0583ae0574652245e18691e3927035626a39381a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +92,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "0200bf794096660f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -123,11 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "H2 Computing/Pseudocode Syntax.md"
-=======
-                "file": "H1 Economics/Production Possibility Curve (PPC).md"
->>>>>>> 0583ae0574652245e18691e3927035626a39381a
               }
             }
           },
@@ -137,11 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "H2 Computing/Pseudocode Syntax.md",
-=======
-                "file": "H1 Economics/Production Possibility Curve (PPC).md",
->>>>>>> 0583ae0574652245e18691e3927035626a39381a
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,20 +156,15 @@
               "state": {}
             }
           }
-<<<<<<< HEAD
         ],
         "currentTab": 2
-=======
-        ]
->>>>>>> 0583ae0574652245e18691e3927035626a39381a
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab8cb8178e23958d",
+  "active": "a9780e7ab5316243",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "H2 Computing/Pseudocode Syntax.md",
     "H1 Economics/Untitled.md",
     "H1 Economics/Effects of supply and demand on price and quantity.md",
@@ -195,17 +175,5 @@
     "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Scarcity, Choice and Opportunity cost.md",
     "H1 Economics/Actual Economic Growth.md"
-=======
-    "H1 Economics/Production Possibility Curve (PPC).md",
-    "H1 Economics/Definitions/Actual Economic Growth.md",
-    "H1 Economics/Potential Economic Growth.md",
-    "H1 Economics/Opportunity cost.md",
-    "H1 Economics/Inferior Goods.md",
-    "H1 Economics/Factors of production.md",
-    "H1 Economics/Factors affecting supply.md",
-    "H1 Economics/Factors affecting price elasticity of demand.md",
-    "H1 Economics/Factors affecting demand.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md"
->>>>>>> 0583ae0574652245e18691e3927035626a39381a
   ]
 }

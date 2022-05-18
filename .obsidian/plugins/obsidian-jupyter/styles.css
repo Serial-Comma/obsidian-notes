@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* hide the output prompts of jupyter cells*/
 .obsidian-jupyter .prompt, .obsidian-jupyter .input {
     display: none;
@@ -10,3 +11,17 @@
 .setupScriptTextArea textarea {
     font-family: monospace;
 }
+=======
+/* hide the output prompts of jupyter cells*/
+.obsidian-jupyter .prompt, .obsidian-jupyter .input {
+    display: none;
+}
+
+.wideSettingsElement textarea, .wideSettingsElement input {
+    min-width: 300px;
+}
+
+.setupScriptTextArea textarea {
+    font-family: monospace;
+}
+>>>>>>> 0583ae0574652245e18691e3927035626a39381a
