@@ -80,9 +80,15 @@ REPEAT
 UNTIL JC_Dustbins == 0
 ```
 
-`FOR` is your standard `for i in range(x):` loop in Python
+`FOR-ENDFOR` is your standard `for i in range(x):` loop in Python
 ```C
-FOR count in range(1, TJC_STUDENT_MENTAL_HEALTH)
-	TJC_STUDENT_MENTAL_HEALTH <
-	
+FOR count <- 1 TO TJC_STUDENT_MENTAL_HEALTH
+	TJC_STUDENT_MENTAL_HEALTH[count] <- TJC_STUDENT_MENTAL_HEALTH[count] - 9000
+ENDFOR
+```
+
+## Selection
+`IF` does exactly what you think it does *if* it was consistent with Python
+```C
+IF Number_of_lessons_with_n
 ```
