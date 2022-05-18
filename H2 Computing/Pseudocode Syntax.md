@@ -60,18 +60,25 @@ PUT "Your Uni RP was"
 OUTPUT 10
 ```
 
-`READ` is your Python `file.read()`
-`GET` is your Python `input("Why are you here")`
+`READ` and `GET` are basically the same thing are is your Python `input("Why are you here")`
 and for some reason A level pseudocode doesn't have `INPUT` even thought it kind of exists in O level computing and output literally has `OUTPUT`
 ```
 READ Your_Brother
 GET Her_L1R5
 ```
 
+### File Processing Stuff
+
 `OPENFILE` is your Python `open()`
 You will basically only use it like this:
-`OPENFILE text.csv FOR OUTPUT` is your Python `open(text.csv, 'w')`
-`OPENFILE text.csv FOR INPUT` is your Python `open(text.csv, 'r')`
+`OPENFILE text.csv FOR WRITE` is your Python `open(text.csv, 'w')`
+`OPENFILE text.csv FOR READ` is your Python `open(text.csv, 'r')`
+`OPENFILE text.csv FOR APPEND` is your Python `open(text.csv, 'a')`
+
+`READFILE` is used as:
+`READFILE text.csv, x`, where x is the
+
+
 
 also don't forget to `CLOSEFILE text.csv` when youre done
 
