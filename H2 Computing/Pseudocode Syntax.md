@@ -218,3 +218,5 @@ amount_of_interest_i_have("GP") //YOU DONT NEED TO WRITE 'CALL'
 
 ENDMAIN
 ```
+
+btw the `x` and `y` in `name(x,y)` are called **actual parameters** while the values you pass into them while the values like `"GP"` and `"GP_HW"` are called the arguments. W
