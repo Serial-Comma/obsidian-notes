@@ -182,8 +182,23 @@ Syntax:
 `PROCEDURE name(x : INTEGER, y: STRING)`
 Example:
 ```C
-PROCEDURE Amount_of_hours_of_sleep(x : INTEGER, y: INTEGER)
-	CASE 
-	GP_HW == TRUE: PRINT "10 Hours"
-	
+PROCEDURE Amount_of_hours_of_sleep(x : STRING)
+	CASE OF x 
+	GP_HW = TRUE: PRINT "10 Hours"
+	Math_HW = TRUE : PRINT "9 Hours"
+	Econs_HW = TRUE: PRINT "21 Hours"
+	OTHERWISE PRINT "200 Hours"
+ENDPROCEDURE
+
+MAIN //You need this apparently
+
+Amout_of_hours_of_sleep(GP_HW)
+
+ENDMAIN
 ```
+
+
+`FUNCTION` is similar to Python's user-defined functions that you know and love, except a lot worse
+Syntax: `FUNCTION name(x: REAL, y: INTEGER) RETURNS BOOL`
+Example
+
