@@ -26,21 +26,21 @@ CONSTANT School_Budget = 0 //Also apparently instead of using <- it uses = ??? W
 ```
 
 ## Operators
-Addition : +
-Subtraction: -
-Multiplication: *
-Division: / 
-Greater Than: >
-Less Than: <
-Greater Than or Equal to: >=
-Less Than or Equal to: <=
-Equal to: =
-Not Equal to: <>
+- Addition : +
+- Subtraction: -
+- Multiplication: *
+- Division: / 
+- Greater Than: >
+- Less Than: <
+- Greater Than or Equal to: >=
+- Less Than or Equal to: <=
+- Equal to: =
+- Not Equal to: <>
 
 These exist:
-AND
-OR
-NOT
+- AND
+- OR
+- NOT
 
 ## Input Output stuff
 

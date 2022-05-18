@@ -8,9 +8,9 @@
     "dont"
   ],
   "pdfExportSettings": {
-    "pageSize": "A4",
+    "pageSize": "Tabloid",
     "landscape": false,
-    "margin": "0",
+    "margin": "1",
     "downscalePercent": 100
   },
   "showLineNumber": true,
