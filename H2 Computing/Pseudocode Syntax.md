@@ -129,6 +129,8 @@ FOR count <- 1 TO TJC_STUDENT_MENTAL_HEALTH
 ENDFOR
 ```
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ## Selection
 `IF` does exactly what you think it does *if* it was consistent with Python
 ```C
@@ -191,6 +193,8 @@ CASE OF possible_locations_in_school
 ENDCASE
 ```
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ## Arrays
 Unlike Python, Arrays in Pseudocode must always have a fixed and unchanging length which is declared at the start (Python is actually the exception because most programming languages have fixed length arrays too), so a `.append()` function for arrays doesn't exist
 
@@ -241,7 +245,6 @@ CALL Amout_of_hours_of_sleep("GP_HW") //YOU NEED TO WRITE 'CALL'
 ENDMAIN
 ```
 
-
 `FUNCTION` is similar to Python's user-defined functions that you know and love, except a lot worse
 Syntax: `FUNCTION name(x: REAL, y: INTEGER) RETURNS BOOL`
 Example:
@@ -263,19 +266,14 @@ amount_of_interest_i_have("GP") //YOU DONT NEED TO WRITE 'CALL'
 ENDMAIN
 ```
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 btw the `x` and `y` in `name(x,y)` are called **actual parameters** while the values you pass into them while the values like `"GP"` and `"GP_HW"` are called the **arguments**. When will you ever use this practically? Never. But Mr Fong is about as predictable as the outcome of the Russia-Ukraine war.
 
 also, if youre passing parameters into your functions/procedure using other variables, you can choose to specify `BYVALUE` where a copy of the data will be passed into the function, leaving the original variable unchanged. On the other hand, `BYREF` passes the address of the variable into the function, any changes to the parameter in the function actually affects the variable irl. You can specify it like this:
 
 `PROCEDURE name(BYREF x : INTEGER, BYREF y: STRING)`
 
-once again, would you ever want to use this? No. 
-
-
-
-
-
-
-
+To conclude, would you ever want to use this? No. Does he care? No.
 
 # thank you for coming to my ted talk
