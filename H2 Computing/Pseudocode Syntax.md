@@ -219,4 +219,6 @@ amount_of_interest_i_have("GP") //YOU DONT NEED TO WRITE 'CALL'
 ENDMAIN
 ```
 
-btw the `x` and `y` in `name(x,y)` are called **actual parameters** while the values you pass into them while the values like `"GP"` and `"GP_HW"` are called the arguments. W
+btw the `x` and `y` in `name(x,y)` are called **actual parameters** while the values you pass into them while the values like `"GP"` and `"GP_HW"` are called the **arguments**. When will you ever use this practically? Never. But Mr Fong is about as predictable as the outcome of the Russia-Ukraine war.
+
+also, if youre passing parameters into your functions/procedure using other variables, you can choose to specify `BYVALUE` where a copy of the data will be passed into the function, leaving the original variable unchanged. On the other hand, `BYREF` passes the address of the variable into the function, any changes to the par
