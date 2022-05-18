@@ -80,8 +80,9 @@ REPEAT
 UNTIL JC_Dustbins == 0
 ```
 
-`FOR` is your standard `for i in [1, x]:` loop in Python
+`FOR` is your standard `for i in range(x):` loop in Python
 ```C
-FOR Mental_Health <- 1 TO TJC_STUDENTS STEP 1
+FOR count in range(1, TJC_STUDENT_MENTAL_HEALTH)
+	TJC_STUDENT_MENTAL_HEALTH <
 	
 ```
