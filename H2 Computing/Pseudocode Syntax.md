@@ -110,10 +110,33 @@ ENDIF
 `NOT` can be used in the case of `IF NOT TJC_STUDENT = "Straight"` but why would you do that when `IF TJC_STUDDENT <> "Stright"` exists and you save 5 characters
 
 
-also make sure to use brackets if you have more than 3 conditions
+also make sure to use brackets if you have more than 3 conditions to keep it unambigious
 ```
 IF (Students_Nearby <= 1 AND Teachers_Nearby <= 0) OR At_School == FALSE
 	THEN
 		Make_Love == TRUE
-	
+	ELSE
+		Make_War == TRUE
+ENDIF
+```
+
+
+## The only useful thing in pseudocode
+
+`CASE-ENDCASE`
+Syntax: 
+```
+CASE OF <variable_name>
+	<value> : <do something>
+	<value> : <do something>
+
+
+	OTHERWISE <do something>
+ENDCASE
+```
+This is probably the closest thing to Python dictionaries as you can get in pseudocode.
+Its also a little more useful than dictionaries because it actually accepts ranges in its value which Python doesnt apparently
+
+```
+CASE
 ```
