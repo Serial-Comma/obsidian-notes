@@ -76,9 +76,16 @@ You will basically only use it like this:
 `OPENFILE text.csv FOR APPEND` is your Python `open(text.csv, 'a')`
 
 `READFILE` is used as:
-`READFILE text.csv, x`, where x is the
+`READFILE text.csv, x`, where the next line of text in the file will be transferred into `x` (it is a string btw)
 
+`WRITEFILE text.csv, y` basically writes `y` into the next line of the file in `WRITE` and `APPEND`
+mode
 
+`EOF text.csv` returns TRUE when it has reached the end of the file, and FALSE if otherwise
+
+`SEEK text.csv, z` moves the pointer to line `z` in the file
+
+`GETRECORD text.csv, t` is basically a REA
 
 also don't forget to `CLOSEFILE text.csv` when youre done
 
