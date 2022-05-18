@@ -7,7 +7,6 @@
 Syntax: `DECLARE <variable name> : <data type>`
 
 What can you declare?
-
 ```C
 INTEGER: 1,2,-3,0 //Basically Python int()
 REAL: 4.7, 6.9, 3.141592654 //It's not float() because mr fong wants to make everyones life difficult
@@ -15,7 +14,14 @@ STRING: "This is a string", 'Single quotes arent strings because mr fong hates y
 BOOLEAN: TRUE, FALSE
 DATE: 04/06/1989 (dd/mm/yyyy)
 ```
-
+also if you want to declare a global variable you can do it like this:
+`DECLARE GLOBAL x: INTEGER` and vice versa
+Here's some examples:
+```
+DECLARE GP_Teachers_Mood : BOOL
+DECLARE Normal_Persons_Mood: REAL
+DECLARE TJC
+```
 `CONSTANT`
 Syntax: `CONSTANT <'variable' name> = <value>`
 Constants don't exist in python,  thus making this very useful to our learning
@@ -221,4 +227,9 @@ ENDMAIN
 
 btw the `x` and `y` in `name(x,y)` are called **actual parameters** while the values you pass into them while the values like `"GP"` and `"GP_HW"` are called the **arguments**. When will you ever use this practically? Never. But Mr Fong is about as predictable as the outcome of the Russia-Ukraine war.
 
-also, if youre passing parameters into your functions/procedure using other variables, you can choose to specify `BYVALUE` where a copy of the data will be passed into the function, leaving the original variable unchanged. On the other hand, `BYREF` passes the address of the variable into the function, any changes to the par
+also, if youre passing parameters into your functions/procedure using other variables, you can choose to specify `BYVALUE` where a copy of the data will be passed into the function, leaving the original variable unchanged. On the other hand, `BYREF` passes the address of the variable into the function, any changes to the parameter in the function actually affects the variable irl. You can specify it like this:
+
+`PROCEDURE name(BYREF x : INTEGER, BYREF y: STRING)`
+
+once again, would you ever want to use this? No. 
+
