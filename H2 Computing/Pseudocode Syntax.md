@@ -157,7 +157,12 @@ Anytime you're using an array and inputting values into it do something like thi
 CONSTANT ArrayLength = 20
 DECLARE TJC_Student_Mental_Health : ARRAY[1:ArrayLength] OF INTEGER
 
-FOR count <- 1 TO ArrayLength
-	TJC_Student_Mental_Health = TJC_Student_Mental_Health - 100
+FOR count <- 1 TO ArrayLength //You cant use range(len(TJC_Student_Mental_Health))
+	PRINT "Input the mental health score of poor TJCian number" + count
+	READ TJC_Student_Mental_Health
 ENDFOR
+```
+If youre really jazzed up and want to use arrays in a total of two (2) dimensions do this:
+```C
+DECLARE hot_singles_in_your_area : ARRAY 
 ```
