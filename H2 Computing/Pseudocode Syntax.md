@@ -9,5 +9,6 @@ Syntax: `DECLARE <variable name> : <data type>`
 What can you declare?
 
 ```
-INTEGER: 
+INTEGER: 1,2,-3,0
+
 ```
