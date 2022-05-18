@@ -175,3 +175,6 @@ ENDFOR
 ```
 also the index of arrays in pseudocode start from 1 instead of 0. Why? Because fuck you, that's why.
 
+## Functions
+
+`PROCEDURE`
