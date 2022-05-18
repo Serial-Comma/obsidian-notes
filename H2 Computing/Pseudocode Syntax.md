@@ -184,15 +184,15 @@ Example:
 ```C
 PROCEDURE Amount_of_hours_of_sleep(x : STRING)
 	CASE OF x 
-	GP_HW = TRUE: PRINT "10 Hours"
-	Math_HW = TRUE : PRINT "9 Hours"
-	Econs_HW = TRUE: PRINT "21 Hours"
-	OTHERWISE PRINT "200 Hours"
+		GP_HW = TRUE: PRINT "10 Hours"
+		Math_HW = TRUE : PRINT "9 Hours"
+		Econs_HW = TRUE: PRINT "21 Hours"
+		OTHERWISE PRINT "200 Hours"
 ENDPROCEDURE
 
 MAIN //You need this apparently
 
-Amout_of_hours_of_sleep(GP_HW)
+CALL Amout_of_hours_of_sleep("GP_HW")
 
 ENDMAIN
 ```
@@ -200,5 +200,21 @@ ENDMAIN
 
 `FUNCTION` is similar to Python's user-defined functions that you know and love, except a lot worse
 Syntax: `FUNCTION name(x: REAL, y: INTEGER) RETURNS BOOL`
-Example
+Example:
+```C
+FUNCTION amount_of_interest_i_have(x : STRING) RETURNS INTEGER
+	CASE of X
+		Econs = TRUE: RETURN 100
+		Math = TRUE: RETURN 90
+		Physics = True: RETURN 80
+		GP = TRUE: RETURN 40
+		Chinese = TRUE RETURN 0
+	OTHERWISE RETURN 50
+ENDFUNCTION
 
+MAIN
+
+CALL amount_of_interest_i_have("GP")
+
+ENDMAIN
+```
