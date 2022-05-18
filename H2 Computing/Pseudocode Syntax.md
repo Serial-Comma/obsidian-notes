@@ -37,6 +37,7 @@ Less Than or Equal to: <=
 Equal to: =
 Not Equal to: <>
 
+These exist:
 AND
 OR
 NOT
@@ -97,10 +98,22 @@ IF No_of_lessons_with_no_breaks_in_a_row <= 10 //Take note there is no : at the 
 		PRINT "Screw You"
 ENDIF
 ```
-you can also use `AND and OR` to smush multiple conditions together if you w
+you can also use `AND and OR` to smush multiple conditions together if you want to save time
 ```
 IF Uni_RP <=60 AND Daddy = "RICH"
 	THEN
 		UNI_RP <- 90
 ENDIF
+```
+
+
+`NOT` can be used in the case of `IF NOT TJC_STUDENT = "Straight"` but why would you do that when `IF TJC_STUDDENT <> "Stright"` exists and you save 5 characters
+
+
+also make sure to use brackets if you have more than 3 conditions
+```
+IF (Students_Nearby <= 1 AND Teachers_Nearby <= 0) OR At_School == FALSE
+	THEN
+		Make_Love == TRUE
+	
 ```
