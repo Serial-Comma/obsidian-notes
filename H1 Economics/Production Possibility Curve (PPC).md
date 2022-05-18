@@ -26,3 +26,5 @@ Downward sloping nature of PPC shows [[Opportunity cost]].
 For example, when an economy moves from point C to point D, it gives up 10 million units of capital goods to produce 5 million units of consumer goods. 
 The [[Opportunity cost]] of producing the additional 5 million units of consumer goods is the 10 million units of capital goods.
 
+
+A PPC can represent both [[Actual Economic Growth]] and [[Potential Economic Growth]]
