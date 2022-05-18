@@ -22,7 +22,7 @@ Constants don't exist in python,  thus making this very useful to our learning
 ```C
 CONSTANT Mr_Fong = "Asshole"  //You do not have to declare a constant before you assign a value to it for some reason
 CONSTANT My_Uni_L1R5 = 69
-CONSTANT School_Budget = 0
+CONSTANT School_Budget = 0 //Also apparently instead of using <- it uses = ??? What bs is this
 ```
 
 ## Operators
@@ -150,4 +150,14 @@ ENDCASE
 ```
 
 ## Arrays
-Unlike Python, Arrays in Pseudocode must always have a fixed and 
+Unlike Python, Arrays in Pseudocode must always have a fixed and unchanging length which is declared at the start (Python is actually the exception because most programming languages have fixed length arrays too), so a `.append()` function for arrays doesn't exist
+
+Anytime you're using an array and inputting values into it do something like this:
+```C
+CONSTANT ArrayLength = 20
+DECLARE TJC_Student_Mental_Health : ARRAY[1:ArrayLength] OF INTEGER
+
+FOR count <- 1 TO ArrayLength
+	TJC_Student_Mental_Health = TJC_Student_Mental_Health - 100
+ENDFOR
+```
