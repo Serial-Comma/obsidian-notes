@@ -171,3 +171,4 @@ FOR ROW <- 1 TO 20
 	FOR ROW <- 1 TO 10
 	
 ```
+also the index of arrays in pseudocode start from 1 instead of 0. Why? Because fuck you, seab doesn't care a
