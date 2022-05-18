@@ -62,4 +62,9 @@ GET His_Virginity
 ```
 
 ## Loops
-`WHILE-ENDWHILE` and `DOWHILE-ENDO` are the exact same thing 
+`WHILE-ENDWHILE` and `DOWHILE-ENDO` are the exact same thing ~~(even though while is supposed to be a precondition and dowhile is a postcondition irl???)~~ and are both precondition loops like your `while True:` in Python
+```C
+WHILE School_Budgetr <= 10:
+	Useful_Things <
+	
+```
