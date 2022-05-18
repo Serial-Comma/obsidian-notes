@@ -159,16 +159,19 @@ DECLARE TJC_Student_Mental_Health : ARRAY[1:ArrayLength] OF INTEGER
 
 FOR count <- 1 TO ArrayLength //You cant use range(len(TJC_Student_Mental_Health))
 	PRINT "Input the mental health score of poor TJCian number" + count
-	READ TJC_Student_Mental_Health
+	READ TJC_Student_Mental_Health[count]
 ENDFOR
 ```
 If youre really jazzed up and want to use arrays in a total of two (2) dimensions do this:
 ```C
-DECLARE hot_singles_in_your_area : ARRAY [1:10,1:20] OF CHAR
+DECLARE hot_singles_in_your_area : ARRAY [1:10,1:20] OF INTEGER
 // This makes a matrix of 10 columns and 20 rows, yes its confusing 
 
 FOR ROW <- 1 TO 20
 	FOR ROW <- 1 TO 10
-	
+	PRINT "Input the value of row" + ROW + "and column" + COL
+	READ hot_singles_in_your_area[ROW,COL]
+ENDFOR
 ```
-also the index of arrays in pseudocode start from 1 instead of 0. Why? Because fuck you, seab doesn't care a
+also the index of arrays in pseudocode start from 1 instead of 0. Why? Because fuck you, that's why.
+
