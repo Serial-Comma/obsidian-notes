@@ -17,7 +17,7 @@ DATE: 04/06/1989 (dd/mm/yyyy)
 also if you want to declare a global variable you can do it like this:
 `DECLARE GLOBAL x: INTEGER` and vice versa
 Here's some examples:
-```
+```C
 DECLARE GP_Teachers_Mood : BOOL
 DECLARE Normal_Persons_Mood: REAL
 DECLARE GLOBAL Does_The_Class_Aircon_Work: BOOL
@@ -31,6 +31,9 @@ CONSTANT Mr_Fong = "Boring"  //You do not have to declare a constant before you 
 CONSTANT My_Uni_L1R5 = 69
 CONSTANT School_Budget = 0 //Also apparently instead of using <- it uses = ??? What bs is this
 ```
+
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Operators
 - Addition : +
@@ -62,11 +65,13 @@ OUTPUT 10
 
 `READ`, `GET` and `PROMPT` are basically the same thing are is your Python `input("Why are you here")`
 and for some reason A level pseudocode doesn't have `INPUT` even thought it kind of exists in O level computing and output literally has `OUTPUT`
-```
+```C
 READ Your_Brother
 GET Her_L1R5
-PROMPT Them_to_get_a_job
+PROMPT "Them to get a job"
 ```
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ### File Processing Stuff
 
@@ -95,6 +100,8 @@ mode
 
 
 also don't forget to `CLOSEFILE text.csv` when youre done
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Loops
 `WHILE-ENDWHILE` and `DOWHILE-ENDO` are the exact same thing ~~(even though while is supposed to be a precondition and dowhile is a postcondition irl???)~~ and are both precondition loops like your `while True:` in Python
@@ -133,7 +140,7 @@ IF No_of_lessons_with_no_breaks_in_a_row <= 10 //Take note there is no : at the 
 ENDIF
 ```
 you can also use `AND and OR` to smush multiple conditions together if you want to save time
-```
+```C
 IF Uni_RP <=60 AND Daddy = "RICH"
 	THEN
 		UNI_RP <- 90
@@ -145,7 +152,7 @@ ENDIF
 
 
 also make sure to use brackets if you have more than 3 conditions to keep it unambigious
-```
+```C
 IF (Students_Nearby <= 1 AND Teachers_Nearby <= 0) OR At_School == FALSE
 	THEN
 		Make_Love == TRUE
@@ -154,12 +161,13 @@ IF (Students_Nearby <= 1 AND Teachers_Nearby <= 0) OR At_School == FALSE
 ENDIF
 ```
 
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Possibly the only useful thing in pseudocode
 
 `CASE-ENDCASE`
 Syntax: 
-```
+```C
 CASE OF <variable_name>
 	<value> : <do something>
 	<value> : <do something>
@@ -170,7 +178,7 @@ ENDCASE
 ```
 This is probably the closest thing to Python dictionaries as you can get in pseudocode.
 Its also a little more useful than dictionaries because it actually accepts ranges in its value which Python doesnt apparently
-```
+```C
 CASE OF possible_locations_in_school
 	audi_with_people: PRINT "Hell no"
 	audi_without_people: PRINT "If you're into it"
@@ -208,6 +216,8 @@ FOR ROW <- 1 TO 20
 ENDFOR
 ```
 also the index of arrays in pseudocode start from 1 instead of 0. Why? Because fuck you, that's why.
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Functions
 
@@ -261,3 +271,11 @@ also, if youre passing parameters into your functions/procedure using other vari
 
 once again, would you ever want to use this? No. 
 
+
+
+
+
+
+
+
+# thank you for coming to my ted talk
