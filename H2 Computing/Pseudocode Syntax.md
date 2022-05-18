@@ -1,5 +1,5 @@
 # Pseudocode Syntax
-### "because what's the point of making it simple?"
+### "because what's the point of keeping it simple?"
 
 ## Normal stuff
 
@@ -164,5 +164,7 @@ ENDFOR
 ```
 If youre really jazzed up and want to use arrays in a total of two (2) dimensions do this:
 ```C
-DECLARE hot_singles_in_your_area : ARRAY 
+DECLARE hot_singles_in_your_area : ARRAY [1:10,1:20] OF CHAR
+// This makes a matrix of 10 columns and 20 rows, yes its confusing 
+
 ```
