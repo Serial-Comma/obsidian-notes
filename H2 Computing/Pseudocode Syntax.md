@@ -43,4 +43,9 @@ NOT
 
 ## Input Output stuff
 
-`OUTPUT, P`
+`OUTPUT, PRINT, WRITE, PUT, DISPLAY` are all the same thing as far as you are concerned. For (somewhat) consistency with Python just use `PRINT` for everything to make your life easier
+
+`READ` is your Python `open(file.txt, 'r')`
+`GET` is your Python `input("Why are you here")`
+and for some reason A level pseudocode doesnt have `INPUT` even thought it literally exists in O level computing and output has `OUTPUT`
+
