@@ -20,11 +20,12 @@ Here's some examples:
 ```
 DECLARE GP_Teachers_Mood : BOOL
 DECLARE Normal_Persons_Mood: REAL
-DECLARE TJC
+DECLARE GLOBAL Does_The_Class_Aircon_Work: BOOL
 ```
 `CONSTANT`
 Syntax: `CONSTANT <'variable' name> = <value>`
-Constants don't exist in python,  thus making this very useful to our learning
+Constants don't exist in python,  thus making this very useful to our learning.
+Example:
 ```C
 CONSTANT Mr_Fong = "Asshole"  //You do not have to declare a constant before you assign a value to it for some reason
 CONSTANT My_Uni_L1R5 = 69
@@ -67,6 +68,10 @@ and for some reason A level pseudocode doesn't have `INPUT` even thought it kind
 READ Your_Mother
 GET His_Virginity
 ```
+
+`OPENFILE` is your Python `open()`
+You will basically only use it like this:
+`OPENFILE text.csv FOR OUTPUT` is your Python `open(`
 
 ## Loops
 `WHILE-ENDWHILE` and `DOWHILE-ENDO` are the exact same thing ~~(even though while is supposed to be a precondition and dowhile is a postcondition irl???)~~ and are both precondition loops like your `while True:` in Python
@@ -127,7 +132,7 @@ ENDIF
 ```
 
 
-## The only useful thing in pseudocode
+## Possibly the only useful thing in pseudocode
 
 `CASE-ENDCASE`
 Syntax: 
