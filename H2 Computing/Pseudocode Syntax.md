@@ -1,7 +1,7 @@
 # Pseudocode Syntax
 ### "because what's the point of keeping it simple?"
 
-## Normal stuff
+## Initializing stuff
 
 `DECLARE`
 Syntax: `DECLARE <variable name> : <data type>`
@@ -192,7 +192,7 @@ ENDPROCEDURE
 
 MAIN //You need this apparently
 
-CALL Amout_of_hours_of_sleep("GP_HW")
+CALL Amout_of_hours_of_sleep("GP_HW") //YOU NEED TO WRITE 'CALL'
 
 ENDMAIN
 ```
@@ -214,7 +214,7 @@ ENDFUNCTION
 
 MAIN
 
-CALL amount_of_interest_i_have("GP")
+amount_of_interest_i_have("GP") //YOU DONT NEED TO WRITE 'CALL'
 
 ENDMAIN
 ```
