@@ -67,13 +67,21 @@ GET His_Virginity
 WHILE School_Budget <= 10:
 	Spending_on_mantaining_existing_facilities <- 0
 	Spending_on_new_campus <- Spending_on_new_campus + 1
-	School_Budget = School_Budget - 1
+	School_Budget <- School_Budget - 1
 ENDWHILE
 ```
 
 `REPEAT-UNTIL` has no equivalent in Python because Python has no post-condition loops (based) but just remember that whatever's in this loop always execute at least once, with the condition for repeat being asked for at the end of the loop
 ```C
 REPEAT
-	Repair_Classroo_ <- False
+	Repair_Classroom_Whiteboards <- FALSE
+	JC_Dustbins <- JC_Dustbins - 1
+	IP_Dustbins <- IP_Dustbins + 1
+UNTIL JC_Dustbins == 0
+```
+
+`FOR` is your standard `for i in [1, x]:` loop in Python
+```C
+FOR Mental_Health <- 1 TO TJC_STUDENTS STEP 1
 	
 ```
