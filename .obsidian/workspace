@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H2 Computing/Pseudocode Syntax.md",
+            "file": "H1 Economics/Factors affecting price elasticity of supply.md",
             "mode": "source",
             "source": false
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396,
-    "collapsed": true
+    "width": 396
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H2 Computing/Pseudocode Syntax.md",
+                "file": "H1 Economics/Factors affecting price elasticity of supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H2 Computing/Pseudocode Syntax.md"
+                "file": "H1 Economics/Factors affecting price elasticity of supply.md"
               }
             }
           },
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H2 Computing/Pseudocode Syntax.md",
+                "file": "H1 Economics/Factors affecting price elasticity of supply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
     "H2 Computing/Pseudocode Syntax.md",
     "H2 Physics/Why (object) experiences an upward force.md",
     "README.md",
-    "H1 Economics/Untitled.md",
+    "H1 Economics/Factors affecting price elasticity of supply.md",
     "H1 Economics/Effects of supply and demand on price and quantity.md",
     "assets/Example PPC.md",
     "assets/test.excalidraw.md",

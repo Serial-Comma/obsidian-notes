@@ -3,12 +3,17 @@
     "2022/3/17": 444,
     "2022/3/18": 744,
     "2022/4/18": 482,
-    "2022/4/19": 933
+    "2022/4/19": 933,
+    "2022/7/3": 6
   },
   "todaysWordCount": {
-    "H2 Computing/Pseudocode Syntax.md": {
-      "initial": 482,
-      "current": 1415
+    "H1 Economics/Untitled.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "H1 Economics/Factors affecting price elasticity of supply.md": {
+      "initial": 0,
+      "current": 6
     }
   }
 }
