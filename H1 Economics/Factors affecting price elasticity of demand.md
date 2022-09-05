@@ -30,7 +30,7 @@ It takes time for consumers to recognize and to respond fully to a change in pri
 Example:
 - Price of oil increases.
 Short term impact -> $Q_{D}$  of oil does not fall (significantly) as people do not immediately cut down on their habits or switch to more fuel-efficient cars
-Long term impact -> Consumers switch their behavior by driving less or switching to more fuel efficient cars -> $Q_{D}$ of oil decreases
+Long term impact -> Consumers switch their behaviour by driving less or switching to more fuel efficient cars -> $Q_{D}$ of oil decreases
 
 Therefore, 
 Longer time to respond -> Greater price elasticity
@@ -50,7 +50,3 @@ For example,
 If there is a 10% increase in the price of different goods, the absolute increase in price faced by consumers is larger for an expensive good than for a cheaper good. 
 Expensive goods -> Higher price elasticity
 Cheaper goods -> Lower price elasticity
-
-
-
-[[test.excalidraw]]
