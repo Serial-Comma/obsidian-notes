@@ -26,5 +26,12 @@ Firms have spare capacity -> Price increases -> Firms react by using unused mach
 Firms operate at full capacity -> Price increases -> Firm cannot increase production easily -> Unable to increase quantity supplied -> Price inelastic
 
 ### Time to respond to price changes
-Since it takes time for firms to adjust production to respond to price changes, 
-Short run- Supply is fixed as it relies on existing stocks -.
+Since it takes time for firms to adjust [[factors of production]] to respond to price changes, 
+Short run- Supply is fixed as it relies on existing stocks -> Price inelastic
+Long run- Supply is reliant of factors of production which are variable -> Price elastic
+
+Example:
+Supply of fresh fish in a single day depends of size of that specific day's catch -> Unable to change supply in such short notice in response to that day's price changes-> Price inelastic
+Supply of fresh fish in the long run can be increased by acquiring more fishing boats/increasing other factors of production in response to price increase -> Price elastic
+
+Despite this, the supply is not perfectly price inelastic in the short run as firms can increase 
