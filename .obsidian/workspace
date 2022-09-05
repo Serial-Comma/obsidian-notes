@@ -7,11 +7,9 @@
         "id": "204e78a373c92f20",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Demand.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/Effects of Price elasticity on consumer expenditure.excalidraw.md"
           }
         }
       }
@@ -85,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/Effects of Price elasticity on consumer expenditure.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/Effects of Price elasticity on consumer expenditure.excalidraw.md"
+              }
             }
           },
           {
@@ -109,8 +110,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/Effects of Price elasticity on consumer expenditure.excalidraw.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -139,24 +141,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "005bdd8ff37d194e",
+  "active": "bc5f8d252d6c8f4a",
   "lastOpenFiles": [
-    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Demand.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Factors affecting price elasticity of demand.md",
-    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Effects of supply and demand on price and quantity.md",
-    "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Application of price elasticity.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Effects of Price elasticity on consumer expenditure.md",
-    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Factors affecting demand.md",
+    "assets/PES effects on gradient.excalidraw.md",
+    "assets/Special Demand graphs.excalidraw.md",
+    "assets/PED effects on gradient.excalidraw.md",
+    "assets/Pasted image 20220417164006.png",
+    "assets/Pasted image 20220417150325.png",
+    "assets/Pasted image 20220417135255.png",
+    "assets/Effects of Price elasticity on consumer expenditure.excalidraw.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Factors affecting price elasticity of supply.md",
-    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Factors of production.md",
-    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Supply.md"
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Factors affecting price elasticity of demand.md"
   ]
 }

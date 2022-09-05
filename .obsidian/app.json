@@ -17,5 +17,6 @@
   "spellcheck": true,
   "showFrontmatter": false,
   "attachmentFolderPath": "assets",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
