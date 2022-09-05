@@ -20,4 +20,7 @@ When PED is applied, the assumption is for them to maximise their PR, which is i
 The ceteris paribus assumption does not hold true in the real world, as in reality many different factors affecting demand for a good can change simultaneously. There could be other non-price factors affecting the demand for a good, making decisions based on the ceteris paribus assumption inaccurate.
 
 ## Application of PES
-Since firms usually control their own supply, they likely have perfect information on their own PES, as opposed to their 
+Since firms usually control their own supply, they likely have perfect information on their own PES, as opposed to their consumer's PED. 
+If a firm find its supply (relative to its competitors) to be
+Price elastic -> able to raise output more easily for an increase in price to maximise revenue, so they have strategies like intentionally planning for excess inventory/spare capacity, or using greater automation to more swiftly increase production
+
