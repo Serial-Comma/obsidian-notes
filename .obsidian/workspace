@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "005bdd8ff37d194e",
+        "id": "204e78a373c92f20",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Definitions/Supply.md",
+            "file": "H1 Economics/Chapter 2/Price elasticity.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "f57904fe14942295",
         "type": "tabs",
+        "dimension": 38.62536302032914,
         "children": [
           {
             "id": "bc5f8d252d6c8f4a",
@@ -50,6 +51,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "712b45d4e0accc80",
+        "type": "tabs",
+        "dimension": 61.37463697967086,
+        "children": [
+          {
+            "id": "005bdd8ff37d194e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Definitions/Supply.md",
+                "file": "H1 Economics/Chapter 2/Price elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Definitions/Supply.md"
+                "file": "H1 Economics/Chapter 2/Price elasticity.md"
               }
             }
           },
@@ -96,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Definitions/Supply.md",
+                "file": "H1 Economics/Chapter 2/Price elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "005bdd8ff37d194e",
+  "active": "204e78a373c92f20",
   "lastOpenFiles": [
-    "H1 Economics/Definitions/Supply.md",
-    "H1 Economics/Definitions/Law of Supply.md",
+    "H1 Economics/Chapter 2/Factors affecting price elasticity of demand.md",
+    "H1 Economics/Chapter 1/Scarcity, Choice and Opportunity cost.md",
+    "H1 Economics/Definitions/Positive Statement.md",
+    "H1 Economics/Definitions/Normative Statement.md",
+    "H1 Economics/Definitions/Normal Goods.md",
     "H1 Economics/Definitions/Law of Diminishing Marginal Utility.md",
+    "H1 Economics/Definitions/Inferior Goods.md",
     "H1 Economics/Definitions/G&S.md",
-    "H1 Economics/Definitions/Demand.md",
-    "H1 Economics/Definitions/Law of Demand.md",
-    "assets/Effects of Price elasticity on consumer expenditure 2022-09-05 18.29.48.excalidraw.md",
-    "H1 Economics/Effects of Price elasticity on consumer expenditure.md",
-    "H1 Economics/Price elasticity.md",
-    "assets/Price elasticity 2022-09-05 18.05.48.excalidraw.md"
+    "H1 Economics/Definitions/Commodity Markets.md",
+    "H1 Economics/Definitions/Asset Markets.md"
   ]
 }

@@ -16,3 +16,7 @@ Price inelastic -> Change in price causes a **less than proportionate change** i
 ![[Price elasticity 2022-09-05 18.05.48.excalidraw]]
 
 See: [[Factors affecting price elasticity of demand]], [[Effects of Price elasticity on consumer expenditure]]
+
+## Price elasticity of supply
+
+

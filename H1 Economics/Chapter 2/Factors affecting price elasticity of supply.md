@@ -1,4 +1,4 @@
-# Factors affecting price elasticity of [[supply]]
+# Factors affecting price elasticity of [[Supply]]
 
 ### Length and complexity of production process
 Longer and more complex process -> More price inelastic
@@ -27,7 +27,7 @@ Firms have spare capacity -> Price increases -> Firms react by using unused mach
 Firms operate at full capacity -> Price increases -> Firm cannot increase production easily -> Unable to increase quantity supplied -> Price inelastic
 
 ### Time to respond to price changes
-Since it takes time for firms to adjust [[factors of production]] to respond to price changes, 
+Since it takes time for firms to adjust [[Factors of production]] to respond to price changes, 
 Short run- Supply is fixed as it relies on existing stocks -> Price inelastic
 Long run- Supply is reliant of factors of production which are variable -> Price elastic
 
