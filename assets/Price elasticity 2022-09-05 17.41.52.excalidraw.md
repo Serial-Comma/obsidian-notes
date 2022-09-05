@@ -26,6 +26,8 @@ Q_inelastic ^gfB51BAM
 
 Q_elastic ^oJKwV1CO
 
+Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
+
 %%
 # Drawing
 ```json
@@ -626,88 +628,6 @@ Q_elastic ^oJKwV1CO
 			"endArrowhead": null
 		},
 		{
-			"id": "64ynYPyKwfUDvAsJ4pqKI",
-			"type": "line",
-			"x": 238.6640625,
-			"y": -80.5,
-			"width": 15,
-			"height": 215,
-			"angle": 0,
-			"strokeColor": "#343a40",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1235171934,
-			"version": 55,
-			"versionNonce": 1379783170,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1662371221803,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					15,
-					215
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
-			"id": "QCLo2Fvq8C9qsy35HhWUr",
-			"type": "line",
-			"x": 110.6640625,
-			"y": -85.5,
-			"width": 11,
-			"height": 220,
-			"angle": 0,
-			"strokeColor": "#343a40",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 397620510,
-			"version": 69,
-			"versionNonce": 1455539998,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1662371221803,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					11,
-					220
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
 			"id": "CxinUH1v",
 			"type": "text",
 			"x": -228.3359375,
@@ -881,6 +801,123 @@ Q_elastic ^oJKwV1CO
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "Q_elastic"
+		},
+		{
+			"id": "bKrWtvBr3N1_LlipFrSQT",
+			"type": "line",
+			"x": 241.6640625,
+			"y": -81.5,
+			"width": 13,
+			"height": 214,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 731997342,
+			"version": 81,
+			"versionNonce": 1983147678,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1662371282160,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					13,
+					214
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "LWqzGfuTU61JTgs1R-ncZ",
+			"type": "line",
+			"x": 110.6640625,
+			"y": -80.5,
+			"width": 12,
+			"height": 216,
+			"angle": 0,
+			"strokeColor": "#364fc7",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 142987842,
+			"version": 82,
+			"versionNonce": 926463198,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1662371292764,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					12,
+					216
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "SC5BJvQ3",
+			"type": "text",
+			"x": -147.3359375,
+			"y": -396.5,
+			"width": 534,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 2105544706,
+			"version": 160,
+			"versionNonce": 333401502,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1662371340043,
+			"link": null,
+			"locked": false,
+			"text": "Fig.X: PED's effects on the gradient of demand curve",
+			"rawText": "Fig.X: PED's effects on the gradient of demand curve",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Fig.X: PED's effects on the gradient of demand curve"
 		},
 		{
 			"id": "sfhKPWHiyn6rnoofHSDEF",
@@ -1604,6 +1641,88 @@ Q_elastic ^oJKwV1CO
 			"endArrowhead": null
 		},
 		{
+			"id": "64ynYPyKwfUDvAsJ4pqKI",
+			"type": "line",
+			"x": 238.6640625,
+			"y": -80.5,
+			"width": 15,
+			"height": 215,
+			"angle": 0,
+			"strokeColor": "#343a40",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1235171934,
+			"version": 56,
+			"versionNonce": 1413356674,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1662371275233,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					15,
+					215
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "QCLo2Fvq8C9qsy35HhWUr",
+			"type": "line",
+			"x": 110.6640625,
+			"y": -85.5,
+			"width": 11,
+			"height": 220,
+			"angle": 0,
+			"strokeColor": "#343a40",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 397620510,
+			"version": 70,
+			"versionNonce": 374867138,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1662371274286,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					11,
+					220
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"id": "HrHotcOSR29M4IWQ4Y9Sh",
 			"type": "freedraw",
 			"x": 75.6640625,
@@ -1649,7 +1768,7 @@ Q_elastic ^oJKwV1CO
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#c92a2a",
+		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
