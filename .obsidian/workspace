@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "H1 Economics/Chapter 2/Price elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "H1 Economics/Chapter 2/Price elasticity.md"
+              }
             }
           },
           {
@@ -121,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "H1 Economics/Chapter 2/Price elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,10 +162,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "005bdd8ff37d194e",
+  "active": "204e78a373c92f20",
   "lastOpenFiles": [
-    "H1 Economics/Chapter 2/Price elasticity.md",
     "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md",
+    "H1 Economics/Chapter 2/Price elasticity.md",
     "H1 Economics/Chapter 2/Factors affecting price elasticity of demand.md",
     "H1 Economics/Chapter 1/Scarcity, Choice and Opportunity cost.md",
     "H1 Economics/Definitions/Positive Statement.md",

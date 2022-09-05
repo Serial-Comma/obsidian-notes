@@ -24,3 +24,7 @@ Price elastic -> Change in price causes a **more than proportionate change** in 
 Price inelastic -> Change in price causes a **less than proportionate change** in quantity supplied (Steeper slope)
 
 ![[Price elasticity 2022-09-05 19.19.24.excalidraw]]
+
+#### Special supply curves
+- A perfectly price elastic supply curve is horizontal, where an increase/decrease in price leads to the quantity supplied become basically zero. Producers are prepared to supply infinite amounts of the good at the current price and none at all when it is changed. PES = ∞
+- A perfectly price inelastic su
