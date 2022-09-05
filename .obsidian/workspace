@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "54c956efd7c08060",
+        "id": "b857bf315aa676cf",
         "type": "leaf",
-        "dimension": 49.52185792349727,
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "assets/Price elasticity 2022-09-05 17.41.52.excalidraw.md"
+            "file": "H1 Economics/Price elasticity.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
       {
-        "id": "b857bf315aa676cf",
+        "id": "4f2aca16dfcdfd60",
         "type": "leaf",
-        "dimension": 50.47814207650273,
         "state": {
           "type": "excalidraw",
           "state": {
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396
+    "width": 396,
+    "collapsed": true
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Price elasticity 2022-09-05 17.41.52.excalidraw.md",
+                "file": "assets/Price elasticity 2022-09-05 18.05.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Price elasticity 2022-09-05 17.41.52.excalidraw.md"
+                "file": "assets/Price elasticity 2022-09-05 18.05.48.excalidraw.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Price elasticity 2022-09-05 17.41.52.excalidraw.md",
+                "file": "assets/Price elasticity 2022-09-05 18.05.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54c956efd7c08060",
+  "active": "4f2aca16dfcdfd60",
   "lastOpenFiles": [
     "H1 Economics/Price elasticity.md",
     "assets/Price elasticity 2022-09-05 18.05.48.excalidraw.md",
+    "H1 Economics/Role of prices in a free market.md",
+    "H1 Economics/Production Possibility Curve (PPC).md",
     "assets/Price elasticity 2022-09-05 17.41.52.excalidraw.md",
     "H1 Economics/Factors affecting price elasticity of supply.md",
     "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Factors affecting price elasticity of demand.md",
     "H1 Economics/Factors affecting demand.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md",
-    "H1 Economics/Factors of production.md",
-    "assets/test.excalidraw.md"
+    "H1 Economics/Effects of supply and demand on price and quantity.md"
   ]
 }
