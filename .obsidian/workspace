@@ -6,12 +6,24 @@
       {
         "id": "204e78a373c92f20",
         "type": "leaf",
+        "dimension": 35.720032180209174,
         "state": {
           "type": "markdown",
           "state": {
             "file": "H1 Economics/Chapter 2/Price elasticity.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "e96cd25b26d1f92d",
+        "type": "leaf",
+        "dimension": 64.27996781979083,
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md"
           }
         }
       }
@@ -25,7 +37,7 @@
       {
         "id": "f57904fe14942295",
         "type": "tabs",
-        "dimension": 38.62536302032914,
+        "dimension": 64.76282671829622,
         "children": [
           {
             "id": "bc5f8d252d6c8f4a",
@@ -55,7 +67,7 @@
       {
         "id": "712b45d4e0accc80",
         "type": "tabs",
-        "dimension": 61.37463697967086,
+        "dimension": 35.237173281703775,
         "children": [
           {
             "id": "005bdd8ff37d194e",
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 617.5
+    "width": 260.5
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Price elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "H1 Economics/Chapter 2/Price elasticity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Price elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +158,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "204e78a373c92f20",
+  "active": "005bdd8ff37d194e",
   "lastOpenFiles": [
+    "H1 Economics/Chapter 2/Price elasticity.md",
+    "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md",
     "H1 Economics/Chapter 2/Factors affecting price elasticity of demand.md",
     "H1 Economics/Chapter 1/Scarcity, Choice and Opportunity cost.md",
     "H1 Economics/Definitions/Positive Statement.md",
@@ -159,8 +169,6 @@
     "H1 Economics/Definitions/Normal Goods.md",
     "H1 Economics/Definitions/Law of Diminishing Marginal Utility.md",
     "H1 Economics/Definitions/Inferior Goods.md",
-    "H1 Economics/Definitions/G&S.md",
-    "H1 Economics/Definitions/Commodity Markets.md",
-    "H1 Economics/Definitions/Asset Markets.md"
+    "H1 Economics/Definitions/G&S.md"
   ]
 }

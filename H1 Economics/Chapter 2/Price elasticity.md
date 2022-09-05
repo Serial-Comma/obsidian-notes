@@ -20,4 +20,7 @@ See: [[Factors affecting price elasticity of demand]], [[Effects of Price elasti
 ## Price elasticity of supply
 Measures the **degree of responsiveness** to quantity supplied of a good to a change in its price
 
-Price elastic -> Change in price causes a more than proportionate change in its 
+Price elastic -> Change in price causes a **more than proportionate change** in quantity supplied (Gentler slope)
+Price inelastic -> Change in price causes a **less than proportionate change** in quantity supplied (Steeper slope)
+
+![[Price elasticity 2022-09-05 19.19.24.excalidraw]]
