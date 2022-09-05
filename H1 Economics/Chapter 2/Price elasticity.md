@@ -27,4 +27,6 @@ Price inelastic -> Change in price causes a **less than proportionate change** i
 
 #### Special supply curves
 - A perfectly price elastic supply curve is horizontal, where an increase/decrease in price leads to the quantity supplied become basically zero. Producers are prepared to supply infinite amounts of the good at the current price and none at all when it is changed. PES = ∞
-- A perfectly price inelastic su
+- A perfectly price inelastic supply curve is vertical, where quantity supplied is completely unresponsive to price changes. Producers are willing to supply the quantity of the good no matter what price it is at. Examples include antiques and famous art pieces, or highly perishable goods like fresh fish. PES = 0.
+
+See: [[Factors affecting price elasticity of supply]], [[Effects of Price elasticity on consumer expenditure]]

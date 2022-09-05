@@ -6,11 +6,11 @@
       {
         "id": "204e78a373c92f20",
         "type": "leaf",
-        "dimension": 35.720032180209174,
+        "dimension": 57.49999999999999,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Chapter 2/Price elasticity.md",
+            "file": "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md",
             "mode": "source",
             "source": false
           }
@@ -19,7 +19,7 @@
       {
         "id": "e96cd25b26d1f92d",
         "type": "leaf",
-        "dimension": 64.27996781979083,
+        "dimension": 42.5,
         "state": {
           "type": "excalidraw",
           "state": {
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Price elasticity.md",
+                "file": "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Chapter 2/Price elasticity.md"
+                "file": "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Price elasticity.md",
+                "file": "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +164,8 @@
   },
   "active": "204e78a373c92f20",
   "lastOpenFiles": [
-    "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md",
     "H1 Economics/Chapter 2/Price elasticity.md",
+    "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md",
     "H1 Economics/Chapter 2/Factors affecting price elasticity of demand.md",
     "H1 Economics/Chapter 1/Scarcity, Choice and Opportunity cost.md",
     "H1 Economics/Definitions/Positive Statement.md",
