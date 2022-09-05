@@ -24,3 +24,8 @@ Since firms usually control their own supply, they likely have perfect informati
 If a firm find its supply (relative to its competitors) to be
 Price elastic -> able to raise output more easily for an increase in price to maximise revenue, so they have strategies like intentionally planning for excess inventory/spare capacity, or using greater automation to more swiftly increase production
 
+
+## Application in government decisions
+The government can consider PED in making decision on measures like taxes and subsidies, where such measures would be effective for a good with price elastic demand, but not for a good with price inelastic demand. 
+
+In a foreign exchange market, the more price elastic the demand is for exports, the more effective a [[devaluation]] of the country's currency, the more export prices will be reduced and incr
