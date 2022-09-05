@@ -6,7 +6,7 @@
     "2022/4/19": 933,
     "2022/7/3": 6,
     "2022/7/31": 0,
-    "2022/8/5": 351
+    "2022/8/5": 368
   },
   "todaysWordCount": {
     "H1 Economics/Factors affecting price elasticity of demand.md": {
@@ -15,7 +15,11 @@
     },
     "H1 Economics/Factors affecting price elasticity of supply.md": {
       "initial": 6,
-      "current": 357
+      "current": 340
+    },
+    "H1 Economics/Price elasticity.md": {
+      "initial": 0,
+      "current": 34
     }
   }
 }

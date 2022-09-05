@@ -1,4 +1,5 @@
 # Factors affecting price elasticity of [[supply]]
+
 ### Length and complexity of production process
 Longer and more complex process -> More price inelastic
 
@@ -33,5 +34,3 @@ Long run- Supply is reliant of factors of production which are variable -> Price
 Example:
 Supply of fresh fish in a single day depends of size of that specific day's catch -> Unable to change supply in such short notice in response to that day's price changes-> Price inelastic
 Supply of fresh fish in the long run can be increased by acquiring more fishing boats/increasing other factors of production in response to price increase -> Price elastic
-
-Despite this, the supply is not perfectly price inelastic in the short run as firms can increase 

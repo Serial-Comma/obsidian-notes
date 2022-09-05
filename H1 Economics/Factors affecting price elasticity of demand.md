@@ -1,4 +1,5 @@
-# Factors affecting [[price elasticity]] of [[demand]]
+# Factors affecting [[Price elasticity]] of [[demand]]
+
 ### Availability of substitutes
 Greater availability of substitutes -> Increased price elasticity
 
