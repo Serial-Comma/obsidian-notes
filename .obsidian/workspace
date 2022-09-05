@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "204e78a373c92f20",
+        "id": "5e6bf2e14b315fb9",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "assets/PED effects on gradient.excalidraw.md"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/PED effects on gradient.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/PED effects on gradient.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/PED effects on gradient.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,14 +143,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "204e78a373c92f20",
+  "active": "5e6bf2e14b315fb9",
   "lastOpenFiles": [
+    "assets/PED effects on gradient.excalidraw.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
     "assets/Special supply curves.excalidraw.md",
     "assets/Special Demand curves.excalidraw.md",
     "assets/Effects of Price elasticity on consumer expenditure.excalidraw.md",
     "assets/PES effects on gradient.excalidraw.md",
-    "assets/PED effects on gradient.excalidraw.md",
     "assets/Pasted image 20220417164006.png",
     "assets/Pasted image 20220417150325.png",
     "assets/Pasted image 20220417135255.png",
