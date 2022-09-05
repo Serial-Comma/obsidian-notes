@@ -8,5 +8,3 @@ In the absence of taxes and subsidies, CE = PR= P × Q
 ![[Effects of Price elasticity on consumer expenditure 2022-09-05 18.29.48.excalidraw]]
 
 TL;DR: If your demand is price elastic, lower your prices to maximise your producer revenue
-
-## Price elasticity of supply

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md",
+            "file": "H1 Economics/Chapter 2/Application of price elasticity.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md",
+                "file": "H1 Economics/Chapter 2/Application of price elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md"
+                "file": "H1 Economics/Chapter 2/Application of price elasticity.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md",
+                "file": "H1 Economics/Chapter 2/Application of price elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,6 +164,7 @@
   },
   "active": "204e78a373c92f20",
   "lastOpenFiles": [
+    "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md",
     "H1 Economics/Chapter 2/Price elasticity.md",
     "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md",
     "H1 Economics/Chapter 2/Factors affecting price elasticity of demand.md",
@@ -172,7 +173,6 @@
     "H1 Economics/Definitions/Normative Statement.md",
     "H1 Economics/Definitions/Normal Goods.md",
     "H1 Economics/Definitions/Law of Diminishing Marginal Utility.md",
-    "H1 Economics/Definitions/Inferior Goods.md",
-    "H1 Economics/Definitions/G&S.md"
+    "H1 Economics/Definitions/Inferior Goods.md"
   ]
 }

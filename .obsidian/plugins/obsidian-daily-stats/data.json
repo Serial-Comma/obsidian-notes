@@ -6,7 +6,7 @@
     "2022/4/19": 933,
     "2022/7/3": 6,
     "2022/7/31": 0,
-    "2022/8/5": 800
+    "2022/8/5": 839
   },
   "todaysWordCount": {
     "H1 Economics/Factors affecting price elasticity of demand.md": {
@@ -40,6 +40,14 @@
     "H1 Economics/Chapter 2/Price elasticity.md": {
       "initial": 187,
       "current": 361
+    },
+    "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md": {
+      "initial": 85,
+      "current": 85
+    },
+    "H1 Economics/Chapter 2/Application of price elasticity.md": {
+      "initial": 1,
+      "current": 40
     }
   }
 }
