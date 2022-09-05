@@ -6,24 +6,12 @@
       {
         "id": "204e78a373c92f20",
         "type": "leaf",
-        "dimension": 57.49999999999999,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Chapter 2/Application of price elasticity.md",
+            "file": "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Demand.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "e96cd25b26d1f92d",
-        "type": "leaf",
-        "dimension": 42.5,
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md"
           }
         }
       }
@@ -37,7 +25,7 @@
       {
         "id": "f57904fe14942295",
         "type": "tabs",
-        "dimension": 64.76282671829622,
+        "dimension": 57.30880929332043,
         "children": [
           {
             "id": "bc5f8d252d6c8f4a",
@@ -67,7 +55,7 @@
       {
         "id": "712b45d4e0accc80",
         "type": "tabs",
-        "dimension": 35.237173281703775,
+        "dimension": 42.69119070667957,
         "children": [
           {
             "id": "005bdd8ff37d194e",
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 527.5
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -97,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Application of price elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "H1 Economics/Chapter 2/Application of price elasticity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Application of price elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "204e78a373c92f20",
+  "active": "005bdd8ff37d194e",
   "lastOpenFiles": [
-    "H1 Economics/Chapter 2/Demand.md",
-    "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md",
-    "H1 Economics/Chapter 2/Effects of supply and demand on price and quantity.md",
-    "H1 Economics/Chapter 2/Factors affecting demand.md",
-    "H1 Economics/Chapter 2/Factors affecting price elasticity of supply.md",
-    "H1 Economics/Chapter 2/Factors of production.md",
-    "H1 Economics/Chapter 2/Supply.md",
-    "GP Presentations/Tutition industry in China.md",
-    "H1 Economics/Chapter 2/Application of price elasticity.md",
-    "H1 Economics/Chapter 2/Price elasticity.md"
+    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Demand.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Factors affecting price elasticity of demand.md",
+    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Effects of supply and demand on price and quantity.md",
+    "assets/Price elasticity 2022-09-05 19.19.24.excalidraw.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Application of price elasticity.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Effects of Price elasticity on consumer expenditure.md",
+    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Factors affecting demand.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Factors affecting price elasticity of supply.md",
+    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Factors of production.md",
+    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Supply.md"
   ]
 }

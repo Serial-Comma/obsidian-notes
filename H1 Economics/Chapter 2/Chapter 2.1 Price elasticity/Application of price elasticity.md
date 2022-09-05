@@ -28,4 +28,4 @@ Price elastic -> able to raise output more easily for an increase in price to ma
 ## Application in government decisions
 The government can consider PED in making decision on measures like taxes and subsidies, where such measures would be effective for a good with price elastic demand, but not for a good with price inelastic demand. 
 
-In a foreign exchange market, the more price elastic the demand is for exports, the more effective a [[devaluation]] of the country's currency, the more export prices will be reduced and incr
+In a foreign exchange market, the more price elastic the demand is for exports, the more effective a [[devaluation]] of the country's currency, the more export prices will be reduced and increase export revenue. (But this will have other effects like increasing import costs)
