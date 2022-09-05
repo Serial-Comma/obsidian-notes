@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Price elasticity.md",
+            "file": "H1 Economics/Effects of Price elasticity on consumer expenditure.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Price elasticity.md",
+                "file": "H1 Economics/Effects of Price elasticity on consumer expenditure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Price elasticity.md"
+                "file": "H1 Economics/Effects of Price elasticity on consumer expenditure.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Price elasticity.md",
+                "file": "H1 Economics/Effects of Price elasticity on consumer expenditure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +162,7 @@
   "active": "b857bf315aa676cf",
   "lastOpenFiles": [
     "assets/Price elasticity 2022-09-05 18.05.48.excalidraw.md",
+    "H1 Economics/Effects of Price elasticity on consumer expenditure.md",
     "H1 Economics/Price elasticity.md",
     "H1 Economics/Role of prices in a free market.md",
     "H1 Economics/Production Possibility Curve (PPC).md",
@@ -169,7 +170,6 @@
     "H1 Economics/Factors affecting price elasticity of supply.md",
     "H1 Economics/Factors affecting supply.md",
     "H1 Economics/Factors affecting price elasticity of demand.md",
-    "H1 Economics/Factors affecting demand.md",
-    "H1 Economics/Effects of supply and demand on price and quantity.md"
+    "H1 Economics/Factors affecting demand.md"
   ]
 }
