@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Effects of supply and demand on price and quantity.md",
+            "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Effects of supply and demand on price and quantity.md",
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Effects of supply and demand on price and quantity.md"
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Effects of supply and demand on price and quantity.md",
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,15 +152,15 @@
   },
   "active": "5e6bf2e14b315fb9",
   "lastOpenFiles": [
-    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Factors of production.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Effects of Price elasticity on consumer expenditure.md",
+    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Effects of supply and demand on price and quantity.md",
     "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Factors affecting supply.md",
+    "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Factors of production.md",
     "H1 Economics/Chapter 1/Role of prices in a free market.md",
     "H1 Economics/Chapter 1/Potential Economic Growth.md",
     "H1 Economics/Chapter 1/Production Possibility Curve (PPC).md",
     "H1 Economics/Chapter 1/Scarcity, Choice and Opportunity cost.md",
     "assets/PED effects on gradient.excalidraw.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
-    "assets/Special supply curves.excalidraw.md",
-    "assets/Special Demand curves.excalidraw.md"
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md"
   ]
 }
