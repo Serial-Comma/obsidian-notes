@@ -7,21 +7,9 @@
         "id": "204e78a373c92f20",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "99257274ae740f89",
-        "type": "leaf",
-        "state": {
           "type": "excalidraw",
           "state": {
-            "file": "assets/Price elasticity 2022-09-05 20.08.11.excalidraw.md"
+            "file": "assets/PED effects on gradient.excalidraw.md"
           }
         }
       }
@@ -96,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Price elasticity 2022-09-05 20.08.11.excalidraw.md",
+                "file": "assets/PED effects on gradient.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Price elasticity 2022-09-05 20.08.11.excalidraw.md"
+                "file": "assets/PED effects on gradient.excalidraw.md"
               }
             }
           },
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Price elasticity 2022-09-05 20.08.11.excalidraw.md",
+                "file": "assets/PED effects on gradient.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,11 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99257274ae740f89",
+  "active": "204e78a373c92f20",
   "lastOpenFiles": [
     "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
-    "assets/Special Demand graphs.excalidraw.md",
-    "assets/Price elasticity 2022-09-05 20.08.11.excalidraw.md",
+    "assets/Special supply curves.excalidraw.md",
+    "assets/Special Demand curves.excalidraw.md",
     "assets/Effects of Price elasticity on consumer expenditure.excalidraw.md",
     "assets/PES effects on gradient.excalidraw.md",
     "assets/PED effects on gradient.excalidraw.md",

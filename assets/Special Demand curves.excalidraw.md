@@ -28,6 +28,8 @@ Still willing to buy at any price! ^ma6PJZtP
 
 Willing to buy at P1, and NOTHING ELSE ^h2uOnOT5
 
+Fig.Z: Special demand curves  ^vJnR0grY
+
 %%
 # Drawing
 ```json
@@ -1432,14 +1434,14 @@ Willing to buy at P1, and NOTHING ELSE ^h2uOnOT5
 			"pressures": []
 		},
 		{
-			"id": "VsvuGqr6",
+			"id": "vJnR0grY",
 			"type": "text",
-			"x": 282.08132250199714,
-			"y": 594.0311715252841,
-			"width": 11,
+			"x": 20.62894154961623,
+			"y": -73.58787609376344,
+			"width": 290,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -1448,12 +1450,47 @@ Willing to buy at P1, and NOTHING ELSE ^h2uOnOT5
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1812141186,
+			"seed": 1239174622,
+			"version": 89,
+			"versionNonce": 2032651266,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1662380152799,
+			"link": null,
+			"locked": false,
+			"text": "Fig.Z: Special demand curves ",
+			"rawText": "Fig.Z: Special demand curves ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Fig.Z: Special demand curves "
+		},
+		{
+			"id": "9aLupESs",
+			"type": "text",
+			"x": -57.4662965456219,
+			"y": -120.25454276043013,
+			"width": 11,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 161716226,
 			"version": 4,
-			"versionNonce": 1429032642,
+			"versionNonce": 1467321694,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1662379865222,
+			"updated": 1662380124007,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1470,7 +1507,7 @@ Willing to buy at P1, and NOTHING ELSE ^h2uOnOT5
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#364fc7",
+		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,

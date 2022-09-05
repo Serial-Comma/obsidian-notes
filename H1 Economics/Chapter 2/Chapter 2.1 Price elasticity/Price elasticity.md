@@ -13,7 +13,7 @@ Price inelastic -> Change in price causes a **less than proportionate change** i
 
 - A **perfectly price inelastic** demand curve is vertical, where a change in the price of a good has brings about no change in quantity demanded. Consumers are willing and able to buy the good at any price. Examples include BTS tickets and pancakes sold in school. PED = 0.
 
-![[Special Demand graphs.excalidraw]]
+![[Special Demand curves.excalidraw]]
 
 See: [[Factors affecting price elasticity of demand]], [[Effects of Price elasticity on consumer expenditure]]
 
@@ -29,6 +29,6 @@ Price inelastic -> Change in price causes a **less than proportionate change** i
 - A perfectly price elastic supply curve is horizontal, where an increase/decrease in price leads to the quantity supplied become basically zero. Producers are prepared to supply infinite amounts of the good at the current price and none at all when it is changed. PES = ∞
 - A perfectly price inelastic supply curve is vertical, where quantity supplied is completely unresponsive to price changes. Producers are willing to supply the quantity of the good no matter what price it is at. Examples include antiques and famous art pieces, or highly perishable goods like fresh fish. PES = 0.
 
-![[Price elasticity 2022-09-05 20.08.11.excalidraw]]
+![[Special supply curves.excalidraw]]
 
-See: [[Factors affecting price elasticity of supply]], [[Effects of Price elasticity on consumer expenditure]]
+See: [[Factors affecting price elasticity of supply]]

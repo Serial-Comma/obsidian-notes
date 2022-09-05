@@ -547,8 +547,8 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 		},
 		{
 			"type": "line",
-			"version": 63,
-			"versionNonce": 759237250,
+			"version": 94,
+			"versionNonce": 1680171842,
 			"isDeleted": false,
 			"id": "PsajB_XYhKd6-MWZuC9Mo",
 			"fillStyle": "hachure",
@@ -561,13 +561,13 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 			"y": -115.5,
 			"strokeColor": "#343a40",
 			"backgroundColor": "transparent",
-			"width": 11,
-			"height": 250,
+			"width": 4.333333333333485,
+			"height": 247.5757575757575,
 			"seed": 1442382878,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1662371221803,
+			"updated": 1662380252329,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -581,8 +581,8 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 					0
 				],
 				[
-					11,
-					250
+					4.333333333333485,
+					247.5757575757575
 				]
 			]
 		},
@@ -804,8 +804,8 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 		},
 		{
 			"type": "line",
-			"version": 81,
-			"versionNonce": 1983147678,
+			"version": 109,
+			"versionNonce": 627476930,
 			"isDeleted": false,
 			"id": "bKrWtvBr3N1_LlipFrSQT",
 			"fillStyle": "hachure",
@@ -818,13 +818,13 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 			"y": -81.5,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
-			"width": 13,
-			"height": 214,
+			"width": 8.75757575757575,
+			"height": 215.81818181818187,
 			"seed": 731997342,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1662371282160,
+			"updated": 1662380256695,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -838,15 +838,15 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 					0
 				],
 				[
-					13,
-					214
+					8.75757575757575,
+					215.81818181818187
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 82,
-			"versionNonce": 926463198,
+			"version": 108,
+			"versionNonce": 1324530690,
 			"isDeleted": false,
 			"id": "LWqzGfuTU61JTgs1R-ncZ",
 			"fillStyle": "hachure",
@@ -855,17 +855,17 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 110.6640625,
+			"x": 111.27012310606051,
 			"y": -80.5,
 			"strokeColor": "#364fc7",
 			"backgroundColor": "transparent",
-			"width": 12,
+			"width": 5.333333333333371,
 			"height": 216,
 			"seed": 142987842,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1662371292764,
+			"updated": 1662380250588,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -879,7 +879,7 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 					0
 				],
 				[
-					12,
+					5.333333333333371,
 					216
 				]
 			]
@@ -920,10 +920,10 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 			"originalText": "Fig.X: PED's effects on the gradient of demand curve"
 		},
 		{
-			"id": "ygUX2IiB",
+			"id": "neb7Tcu1",
 			"type": "text",
-			"x": 16.66257440476187,
-			"y": -224.83333333333343,
+			"x": 31.618607954545496,
+			"y": -258.77272727272725,
 			"width": 11,
 			"height": 25,
 			"angle": 0,
@@ -936,12 +936,12 @@ Fig.X: PED's effects on the gradient of demand curve ^SC5BJvQ3
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 929090690,
+			"seed": 1603427806,
 			"version": 3,
-			"versionNonce": 811068482,
+			"versionNonce": 1200026142,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1662372476491,
+			"updated": 1662380228607,
 			"link": null,
 			"locked": false,
 			"text": "",
