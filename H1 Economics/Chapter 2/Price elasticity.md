@@ -18,5 +18,6 @@ Price inelastic -> Change in price causes a **less than proportionate change** i
 See: [[Factors affecting price elasticity of demand]], [[Effects of Price elasticity on consumer expenditure]]
 
 ## Price elasticity of supply
+Measures the **degree of responsiveness** to quantity supplied of a good to a change in its price
 
-
+Price elastic -> Change in price causes a more than proportionate change in its 
