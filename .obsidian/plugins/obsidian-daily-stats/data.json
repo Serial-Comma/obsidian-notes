@@ -6,60 +6,13 @@
     "2022/4/19": 933,
     "2022/7/3": 6,
     "2022/7/31": 0,
-    "2022/8/5": 1189
+    "2022/8/5": 1189,
+    "2022/8/17": 26
   },
   "todaysWordCount": {
-    "H1 Economics/Factors affecting price elasticity of demand.md": {
-      "initial": 402,
-      "current": 400
-    },
-    "H1 Economics/Factors affecting price elasticity of supply.md": {
-      "initial": 6,
-      "current": 340
-    },
-    "H1 Economics/Price elasticity.md": {
+    "H2 Computing/Diagrams you need to know.md": {
       "initial": 0,
-      "current": 187
-    },
-    "H1 Economics/Effects of Price elasticity on consumer expenditure.md": {
-      "initial": 0,
-      "current": 89
-    },
-    "H1 Economics/Definitions/Demand.md": {
-      "initial": 76,
-      "current": 82
-    },
-    "H1 Economics/Definitions/Law of Demand.md": {
-      "initial": 0,
-      "current": 0
-    },
-    "H1 Economics/Definitions/Supply.md": {
-      "initial": 239,
-      "current": 249
-    },
-    "H1 Economics/Chapter 2/Price elasticity.md": {
-      "initial": 187,
-      "current": 361
-    },
-    "H1 Economics/Chapter 2/Effects of Price elasticity on consumer expenditure.md": {
-      "initial": 85,
-      "current": 85
-    },
-    "H1 Economics/Chapter 2/Application of price elasticity.md": {
-      "initial": 1,
-      "current": 390
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Factors affecting price elasticity of demand.md": {
-      "initial": 400,
-      "current": 400
-    },
-    "H1 Economics/Chapter 1/Role of prices in a free market.md": {
-      "initial": 333,
-      "current": 333
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md": {
-      "initial": 348,
-      "current": 345
+      "current": 26
     }
   }
 }
