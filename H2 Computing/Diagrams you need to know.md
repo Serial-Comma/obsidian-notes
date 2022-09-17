@@ -21,3 +21,11 @@
 ## Ver 2:
 ![[Pasted image 20220917193813.png]]
 
+## Ver 3 (?):
+![[Pasted image 20220917194514.png]]
+
+# 5: Structure diagram
+![[Pasted image 20220917194555.png]]
+![[Pasted image 20220917194602.png]]
+
+# 6: 
