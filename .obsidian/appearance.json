@@ -1,4 +1,5 @@
 {
   "translucency": false,
-  "cssTheme": "80s Neon"
+  "cssTheme": "80s Neon",
+  "interfaceFontFamily": "Inter"
 }
