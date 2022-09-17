@@ -24,8 +24,17 @@
 ## Ver 3 (?):
 ![[Pasted image 20220917194514.png]]
 
+## Ver 4:
+![[Pasted image 20220917195118.png]]
+
 # 5: Structure diagram
 ![[Pasted image 20220917194555.png]]
 ![[Pasted image 20220917194602.png]]
 
-# 6: 
+# 6: Class Diagram
+## Ver 1 (What Cambridge wants):
+![[Pasted image 20220917195212.png]]
+![[Pasted image 20220917195251.png]]
+
+## Ver 2 (What is actually used irl):
+![[Pasted image 20220917195232.png]]

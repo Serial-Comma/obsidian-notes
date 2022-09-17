@@ -7,12 +7,16 @@
     "2022/7/3": 6,
     "2022/7/31": 0,
     "2022/8/5": 1189,
-    "2022/8/17": 75
+    "2022/8/17": 107
   },
   "todaysWordCount": {
     "H2 Computing/Diagrams you need to know.md": {
       "initial": 0,
-      "current": 75
+      "current": 107
+    },
+    "H2 Computing/Pseudocode Syntax.md": {
+      "initial": 1415,
+      "current": 1415
     }
   }
 }
