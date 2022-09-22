@@ -17,7 +17,7 @@ Even if they have accurate data, "past performance is not indicative of future r
 When PED is applied, the assumption is for them to maximise their PR, which is inaccurate as they want to maximise profits. A strategy which may increase revenue may no longer be attractive if the cost to implement outweighs the increase in revenue. PED tells us nothing about how cost changes when firms make a decision. 
 
 #### Ceteris paribus assumption
-The ceteris paribus assumption does not hold true in the real world, as in reality many different [[factors affecting demand]] for a good can change simultaneously. There could be other non-price factors affecting the demand for a good, making decisions based on the ceteris paribus assumption inaccurate.
+The ceteris paribus assumption does not hold true in the real world, as in reality many different [[Factors affecting demand]] for a good can change simultaneously. There could be other non-price factors affecting the demand for a good, making decisions based on the ceteris paribus assumption inaccurate.
 
 ## Application of PES
 Since firms usually control their own supply, they likely have perfect information on their own PES, as opposed to their consumer's PED. 

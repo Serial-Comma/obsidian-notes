@@ -1,5 +1,3 @@
-	# Price elasticity
-
 ## Price elasticity of demand (PED)
 Measures the **degree of responsiveness** of quantity demanded of a good to price changes
 

@@ -1,4 +1,4 @@
-# Effects of [[price elasticity]] on consumer expenditure
+# Effects of [[Price elasticity]] on consumer expenditure
 
 In the absence of taxes and subsidies, CE = PR= P × Q
 
