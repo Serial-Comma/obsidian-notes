@@ -10,3 +10,7 @@ CE decreases
 CE increases
 
 ## Price support policy
+Sometimes the government buys up the surplus to prevent it from depressing prices using government spending.
+
+## Benefits
+- Protects producer's revenues, prevents them from falling and have more stable prices
