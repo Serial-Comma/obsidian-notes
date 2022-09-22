@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "327c2f7e41192b73",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "4d994ef39739f268",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "assets/Price floor 2022-09-23 01.25.43.excalidraw.md"
+            "file": "assets/Price floor 2022-09-23 01.21.56.excalidraw.md"
           }
         }
       }
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md",
+                "file": "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md"
+                "file": "assets/Price floor 2022-09-23 01.21.56.excalidraw.md"
               }
             }
           },
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md",
+                "file": "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,11 +148,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "327c2f7e41192b73",
+  "active": "4d994ef39739f268",
   "lastOpenFiles": [
-    "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md",
     "assets/Price floor 2022-09-23 01.25.43.excalidraw.md",
+    "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
     "assets/Price ceiling 2022-09-23 01.08.01.excalidraw.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Subsidies.md",
