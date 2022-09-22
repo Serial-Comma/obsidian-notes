@@ -17,3 +17,4 @@ Charges a **fixed dollar amount** for each unit transacted. Causes a parallel le
 ### Ad valorem tax
 Charges a **fixed percentage** of the pre-tax price of good. Causes a leftward pivot of the supply curve about the origin.
 ![[Taxes 2022-09-23 00.25.02.excalidraw]]
+
