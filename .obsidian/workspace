@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H2 Computing/Diagrams you need to know.md",
+            "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H2 Computing/Diagrams you need to know.md",
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H2 Computing/Diagrams you need to know.md"
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H2 Computing/Diagrams you need to know.md",
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,8 +152,8 @@
   },
   "active": "5e6bf2e14b315fb9",
   "lastOpenFiles": [
-    "H2 Computing/Pseudocode Syntax.md",
     "H2 Computing/Diagrams you need to know.md",
+    "H2 Computing/Pseudocode Syntax.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Effects of Price elasticity on consumer expenditure.md",
     "H1 Economics/Chapter 2/Chapter 2.0 Supply & Demand/Effects of supply and demand on price and quantity.md",

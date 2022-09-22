@@ -7,16 +7,13 @@
     "2022/7/3": 6,
     "2022/7/31": 0,
     "2022/8/5": 1189,
-    "2022/8/17": 157
+    "2022/8/17": 157,
+    "2022/8/22": 0
   },
   "todaysWordCount": {
-    "H2 Computing/Diagrams you need to know.md": {
-      "initial": 0,
-      "current": 157
-    },
-    "H2 Computing/Pseudocode Syntax.md": {
-      "initial": 1415,
-      "current": 1415
+    "H1 Economics/Chapter 2/Chapter 2.1 Price elasticity/Price elasticity.md": {
+      "initial": 345,
+      "current": 345
     }
   }
 }
