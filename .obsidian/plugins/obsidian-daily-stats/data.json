@@ -9,7 +9,7 @@
     "2022/8/5": 1189,
     "2022/8/17": 157,
     "2022/8/22": 0,
-    "2022/8/23": 110
+    "2022/8/23": 133
   },
   "todaysWordCount": {
     "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Price elasticity.md": {
@@ -26,7 +26,11 @@
     },
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Equity.md": {
       "initial": 1,
-      "current": 12
+      "current": 35
+    },
+    "H1 Economics/Definitions/Normal Goods.md": {
+      "initial": 48,
+      "current": 48
     }
   }
 }
