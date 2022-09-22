@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6bf2e14b315fb9",
+        "id": "327c2f7e41192b73",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Taxes.md",
+            "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Subsidies.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "327c2f7e41192b73",
+        "id": "1effa5a152a0d0b1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Indirect taxes.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/Subsidies 2022-09-23 00.50.33.excalidraw.md"
           }
         }
       }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Taxes.md",
+                "file": "assets/Subsidies 2022-09-23 00.50.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Taxes.md"
+                "file": "assets/Subsidies 2022-09-23 00.50.33.excalidraw.md"
               }
             }
           },
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Taxes.md",
+                "file": "assets/Subsidies 2022-09-23 00.50.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e6bf2e14b315fb9",
+  "active": "1effa5a152a0d0b1",
   "lastOpenFiles": [
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Subsidies.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Reasons for Government Intervention.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Taxes.md",
+    "assets/Drawing 2022-09-23 00.21.26.excalidraw.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Indirect taxes.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Reasons for Government Intervention.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Effects of Price elasticity on consumer expenditure.md",
     "assets/Indirect taxes 2022-09-23 00.33.36.excalidraw.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Taxes.md",
     "assets/Indirect taxes 2022-09-23 00.29.36.excalidraw.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Factors affecting price elasticity of demand.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Factors affecting price elasticity of supply.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Price elasticity.md"
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Factors affecting price elasticity of supply.md"
   ]
 }
