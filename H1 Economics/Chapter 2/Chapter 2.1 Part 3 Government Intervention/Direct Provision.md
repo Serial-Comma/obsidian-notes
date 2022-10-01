@@ -13,4 +13,5 @@ It can be provisioned at either a **subsidised rate** or **free of charge**, to 
 - If government has imperfect information, they may produce too much or too little of the good, leading to lower [[allocative efficiency]]
 
 ## Unintended Consequences
-- L
+- Lack of profit motive means a lack of incentives to reduce costs, leading to lower [[productive efficiency]]
+- Lack of competition also means low
