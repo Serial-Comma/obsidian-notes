@@ -8,11 +8,9 @@
         "type": "leaf",
         "dimension": 37.90485829959514,
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/Quotas 2022-10-01 18.23.29.excalidraw.md"
           }
         }
       },
@@ -23,7 +21,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "assets/Price floor 2022-09-23 01.21.56.excalidraw.md"
+            "file": "assets/Price floor 2022-09-23 01.25.43.excalidraw.md"
           }
         }
       }
@@ -81,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 527.5,
+    "collapsed": true
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
+                "file": "assets/Quotas 2022-10-01 18.23.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Price floor 2022-09-23 01.21.56.excalidraw.md"
+                "file": "assets/Quotas 2022-10-01 18.23.29.excalidraw.md"
               }
             }
           },
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
+                "file": "assets/Quotas 2022-10-01 18.23.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef1816c0535961da",
+  "active": "4d994ef39739f268",
   "lastOpenFiles": [
+    "assets/Price floor 2022-09-23 01.25.43.excalidraw.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Indirect taxes.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
     "assets/Quotas 2022-10-01 18.23.29.excalidraw.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md",
+    "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Indirect taxes.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Price elasticity.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 1 Supply & Demand/Factors of production.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Application of price elasticity.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Subsidies.md",
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Reasons for Government Intervention.md"
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Application of price elasticity.md"
   ]
 }
