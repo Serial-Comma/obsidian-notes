@@ -4,6 +4,7 @@ To be effective, must be below market equilibrium quantity.
 
 ## Effects of price ceiling on price and quantity
 ![[Price ceiling 2022-09-23 01.08.01.excalidraw]]
+CE always decreases.
 
 ## Benefits
 - Prices will be capped at a affordable level, increasing consumption of such goods and improving equity

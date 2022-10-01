@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md",
+            "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
             "mode": "source",
             "source": false
           }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5,
-    "collapsed": true
+    "width": 527.5
   },
   "right": {
     "id": "8094a6c06b8f9b8f",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md",
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md"
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md",
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,8 +164,8 @@
   },
   "active": "4d994ef39739f268",
   "lastOpenFiles": [
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
     "assets/Quotas 2022-10-01 18.42.36.excalidraw.md",
     "assets/Quotas 2022-10-01 18.23.29.excalidraw.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md",

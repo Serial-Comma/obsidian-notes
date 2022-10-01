@@ -5,10 +5,11 @@ Examples: Singapore's Certificate of Entitlement (COE) on cars
 ## Effects of a quota
 #### PED <1:
 ![[Quotas 2022-10-01 18.23.29.excalidraw]]
-CE increases
+CE increases.
+
 #### PED >1:
 ![[Quotas 2022-10-01 18.42.36.excalidraw]]
-CE decreases
+CE decreases.
 
 ## Benefits
 Outcome of reducing quantity consumed in a market is
@@ -17,4 +18,7 @@ Outcome of reducing quantity consumed in a market is
 when compared to indirect taxes
 
 ## Limitations
-- High enforcement costs
+- **High enforcement costs** which may cause a budget deficit or opportunity cost to the government
+
+## Unintended Consequences
+- If imposed on essential goods, the price increase could lead to greater **inequity**
