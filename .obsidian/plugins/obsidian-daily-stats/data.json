@@ -9,56 +9,13 @@
     "2022/8/5": 1189,
     "2022/8/17": 157,
     "2022/8/22": 0,
-    "2022/8/23": 1020
+    "2022/8/23": 1020,
+    "2022/9/1": 41
   },
   "todaysWordCount": {
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Price elasticity.md": {
-      "initial": 343,
-      "current": 343
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Reasons for Government Intervention.md": {
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md": {
       "initial": 0,
-      "current": 98
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Untitled.md": {
-      "initial": 0,
-      "current": 1
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Equity.md": {
-      "initial": 1,
-      "current": 58
-    },
-    "H1 Economics/Definitions/Normal Goods.md": {
-      "initial": 48,
-      "current": 48
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Taxes.md": {
-      "initial": 1,
-      "current": 268
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Effects of indirect taxes on CE.md": {
-      "initial": 0,
-      "current": 6
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Indirect taxes.md": {
-      "initial": 15,
-      "current": 154
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Subsidies.md": {
-      "initial": 0,
-      "current": 143
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md": {
-      "initial": 1,
-      "current": 124
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price Floor.md": {
-      "initial": 1,
-      "current": 2
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md": {
-      "initial": 3,
-      "current": 188
+      "current": 41
     }
   }
 }
