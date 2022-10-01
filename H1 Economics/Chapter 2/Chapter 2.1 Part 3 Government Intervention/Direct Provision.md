@@ -9,7 +9,8 @@ It can be provisioned at either a **subsidised rate** or **free of charge**, to 
 	- achieved faster
 
 ## Limitations
-- Fall in [[dynamic efficiency]], leading to a possible fall in quantity in long run, due to lack of incentive to innovate and reduce costs
+- Lack of incentive to improve production leads to a possible **fall in quantity** in long run, due to lack of incentive to innovate and reduce costs
 - If government has imperfect information, they may produce too much or too little of the good, leading to lower [[allocative efficiency]]
 
 ## Unintended Consequences
+- L
