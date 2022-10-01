@@ -8,3 +8,13 @@ Examples: Singapore's Certificate of Entitlement (COE) on cars
 CE increases
 #### PED >1:
 ![[Quotas 2022-10-01 18.42.36.excalidraw]]
+CE decreases
+
+## Benefits
+Outcome of reducing quantity consumed in a market is
+- more certain
+- faster
+when compared to indirect taxes
+
+## Limitations
+- High enforcement costs
