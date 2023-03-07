@@ -2,5 +2,6 @@
   "translucency": false,
   "cssTheme": "80s Neon",
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "accentColor": ""
 }

@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "f798f6a79906713f",
+    "type": "split",
+    "children": [
+      {
+        "id": "723269867cb5f48b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d994ef39739f268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eaa0905c6285c36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e9acf9507037ff2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f34d2b07007765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67b47dcadc8b1564",
+    "type": "split",
+    "children": [
+      {
+        "id": "f57904fe14942295",
+        "type": "tabs",
+        "dimension": 57.30880929332043,
+        "children": [
+          {
+            "id": "bc5f8d252d6c8f4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56961ff6fbe3a5f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "necessities",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "712b45d4e0accc80",
+        "type": "tabs",
+        "dimension": 42.69119070667957,
+        "children": [
+          {
+            "id": "005bdd8ff37d194e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 527.5
+  },
+  "right": {
+    "id": "8094a6c06b8f9b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "268421c61bfe8191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ec6d87a9b2fc4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "98eba581dd997a2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md"
+              }
+            }
+          },
+          {
+            "id": "dbc10b451767ba18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "20f3d08e23e02812",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f49c1b334ebba8a5",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "839c867e80d76b2b",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6eaa0905c6285c36",
+  "lastOpenFiles": [
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md",
+    "assets/Quotas 2022-10-01 18.42.36.excalidraw.md",
+    "assets/Quotas 2022-10-01 18.23.29.excalidraw.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md",
+    "assets/Price floor 2022-09-23 01.25.43.excalidraw.md",
+    "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Indirect taxes.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 2 Price elasticity/Price elasticity.md"
+  ]
+}
