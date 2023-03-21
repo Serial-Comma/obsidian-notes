@@ -28,9 +28,21 @@
                 "currentVersion": "1.1.16"
               }
             }
+          },
+          {
+            "id": "34100dc1b8678324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H2 Computing/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 1 Supply & Demand/Factors affecting supply.md",
+                "file": "H2 Computing/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 1 Supply & Demand/Factors affecting supply.md"
+                "file": "H2 Computing/Untitled.md"
               }
             }
           },
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H1 Economics/Chapter 2/Chapter 2.1 Part 1 Supply & Demand/Factors affecting supply.md",
+                "file": "H2 Computing/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,4 +194,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1e40b06f3
+  "active": "34100dc1b8678324",
+  "lastOpenFiles": [
+    "H2 Computing/Untitled.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 1 Supply & Demand/Factors affecting demand.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md",
+    "assets/Quotas 2022-10-01 18.42.36.excalidraw.md",
+    "assets/Quotas 2022-10-01 18.23.29.excalidraw.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md",
+    "assets/Price floor 2022-09-23 01.25.43.excalidraw.md",
+    "assets/Price floor 2022-09-23 01.21.56.excalidraw.md",
+    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Indirect taxes.md"
+  ]
+}

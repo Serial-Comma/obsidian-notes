@@ -10,24 +10,13 @@
     "2022/8/17": 157,
     "2022/8/22": 0,
     "2022/8/23": 1020,
-    "2022/9/1": 280
+    "2022/9/1": 280,
+    "2023/2/22": 0
   },
   "todaysWordCount": {
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Quotas.md": {
-      "initial": 0,
-      "current": 104
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price floor.md": {
-      "initial": 188,
-      "current": 188
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md": {
-      "initial": 125,
-      "current": 127
-    },
-    "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md": {
-      "initial": 0,
-      "current": 174
+    "H2 Computing/Untitled.md": {
+      "initial": 778,
+      "current": 711
     }
   }
 }
