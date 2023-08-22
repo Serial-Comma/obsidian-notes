@@ -55,4 +55,4 @@ Joint supply: Goods are in joint supply when the production of one good leads to
 
 Competitive supply: Goods in competitive supply compete for the use of the same inputs
 
-Price mechanism: The price mechanism descrives the means by which 
+Price mechanism: The price mechanism describes the means by which consumers and producers interact to determine the c
