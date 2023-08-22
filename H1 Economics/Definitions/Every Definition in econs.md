@@ -104,4 +104,17 @@ Transfer payments: Money transferred from one person to another without transact
 
 Market failure: The failure of the free market to allocate resources efficiently
 
-Dynamic efficiency: Involves improving allocative and productive efficiency over time. Is associated with ini
+Dynamic efficiency: Involves improving allocative and productive efficiency over time. Is associated with innovation within a market an improvement in both the range of choice for consumers and also the quality of products
+
+Negative externalities: Spillover costs to third parties who are not directly involved in the consumption or production of the good or service itself
+
+Positive externalities: Spillover benefits to third parties who are not directly involved in the consumption or production of the good or service itself
+
+Imperfect information: A case of information failure, where consumers/producers do not have correct or complete information about the costs/benefits of consuming or producing a good
+
+Non-excludability: A situation in which it is impossible or very costly to exclude non-payers from the consumption or use of a good or service once it has been provided
+
+Non-rivalry: The consumption or use of a good or service by once consumer does not reduce the quantity and/or quality available for others
+
+Non-rejectability: The inability of consumers to refuse the consumption of a good once it has been produced
+
