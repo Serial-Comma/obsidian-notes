@@ -128,4 +128,14 @@ Non-material standard of living: Non-material standard of living is associated w
 
 Gross Domestic Product (GDP): Gross Domestic Product (GDP) can be defined as the total monetary value of all final goods and services produced by factors of production located within the geographical boundary of a country in a given time period
 
-Gross National Income (GNI): Gross National Income (GNI) can be defined as the total monetary value of all final goods and services produced by
+Gross National Income (GNI): Gross National Income (GNI) can be defined as the total monetary value of all final goods and services produced by the residents of a country in a given time period. GNI =  GDP + Net factor income from abroad
+
+Net factor income from abroad: The difference between the factor income received from abroad and the factor income paid abroad
+
+Real GDP and Nominal GDP: Real GDP is the physical amount of goods and services produced, whereas nominal GDP refers to the monetary value of the goods and services produced. In other words, real GDP is nominal GDP that has been adjusted for inflation
+
+PPP Exchange rate: Purchasing Power Parity (PPP) exchange rate is the exchange rate that takes into account differences in price levels between countries. PPP refers to the number of currency units required to purchase the same amount of goods and services that can be bought with one unit of currency of the base country
+
+Gini coefficient: It is a statistical measure of income inequality and ranges between 0 (perfect equality) and 1 (extreme inequality)
+
+Human Development Index (HDI): HDI is a composite indicator based on an equa
