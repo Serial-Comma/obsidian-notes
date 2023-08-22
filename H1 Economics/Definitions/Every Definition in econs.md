@@ -100,7 +100,7 @@ Direct provision: The situation where the government provides the good or servic
 
 Transfer payments: Money transferred from one person to another without transactions taking place. Transfer payments are a form of redistributive policy which aim to transfer part of the income gains enjoyed by higher-income earners to the lower-income segments or the population
 
-## Theme 2.2 
+## Chapter 2.2 
 
 Market failure: The failure of the free market to allocate resources efficiently
 
@@ -118,3 +118,14 @@ Non-rivalry: The consumption or use of a good or service by once consumer does n
 
 Non-rejectability: The inability of consumers to refuse the consumption of a good once it has been produced
 
+## Chapter 3.1 Part 1
+
+Standard of living: The standard of living of an economy can be defied as the well-being of residents in the economy and is typically split into material standard of living and non-material standard of living
+
+Material standard of living: Material standard of living is associated with the amount of goods and services available for consumption by residents of an economy.
+
+Non-material standard of living: Non-material standard of living is associated with intangible aspects of well-being such as literacy rates and life expectancy of residents
+
+Gross Domestic Product (GDP): Gross Domestic Product (GDP) can be defined as the total monetary value of all final goods and services produced by factors of production located within the geographical boundary of a country in a given time period
+
+Gross National Income (GNI): Gross National Income (GNI) can be defined as the total monetary value of all final goods and services produced by
