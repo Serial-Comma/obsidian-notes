@@ -154,4 +154,17 @@ Exports revenue (X): The total expenditure by foreigners on domestically produce
 
 Import expenditure (M): The total expenditure by domestic firms, households and the government on foreign goods and services
 
-Aggregate supply (AS)
+Aggregate supply (AS): refers to the total supply of an economy's domestically produced final goods and services at a given general price level in a given time period
+
+The multiplier effect: The multiplier effect states that whenever there is a change in any component of AD, there is likely to be a multiplied effect on GDP
+
+
+## Chapter 3.2 Part 1
+
+Actual Growth: Refers to the realised increase in real national income for a given period of time
+
+Potential Growth: Refers to an increase in the economy's productive capacity over a given time period
+
+Sustained Growth: Refers to a positive and stable growth rate, without a significant upward pressure on the general price level, over an extended period of time
+
+Sustainable Growth: Indicates a rate of growth that can be maintained without creating other significant economic problems, particularly for future generations. It implies a positive and stable g
