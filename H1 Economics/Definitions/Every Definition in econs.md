@@ -138,4 +138,20 @@ PPP Exchange rate: Purchasing Power Parity (PPP) exchange rate is the exchange r
 
 Gini coefficient: It is a statistical measure of income inequality and ranges between 0 (perfect equality) and 1 (extreme inequality)
 
-Human Development Index (HDI): HDI is a composite indicator based on an equa
+Human Development Index (HDI): HDI is a composite indicator based on an equally weighted average of three indicators - PPP-adjusted real GNI per capita, educational attainment and life expectancy at birth.
+
+## Chapter 3.1 Part 2
+
+Aggregate demand (AD): Aggregate demand is the total demand of an economy's domestically produced final goods and services at a given general price level, in a given time period
+
+Consumption expenditure (C): Households' expenditure on final goods and services by households
+
+Investment expenditure (I): Firms' expenditure on capital goods which will allow for increased production of consumer goods and services in future time periods
+
+Government expenditure (G): The total spending by the government on goods and services as well as capital goods. Government expenditure can generally be categorised into operating expenditure and development expenditure
+
+Exports revenue (X): The total expenditure by foreigners on domestically produced goods and services
+
+Import expenditure (M): The total expenditure by domestic firms, households and the government on foreign goods and services
+
+Aggregate supply (AS)
