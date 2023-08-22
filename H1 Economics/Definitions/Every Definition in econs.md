@@ -201,4 +201,20 @@ Liquidity trap: Occurs when interest rates are so low that expansionary monetary
 
 Exchange rate appreciation: Refers to a rise in free-market exchange rate of the domestic currency with foreign currencies
 
-Exchange rate depreciation: Refers to a 
+Exchange rate depreciation: Refers to a fall in the free-market exchange rate of the domestic currency with foreign currencies
+
+Marshall-Lerner Condition: States that a depreciation will improve net export revenue  (X-M) only if the absolute sum of the price elasticities of demand for exports and imports is greater than 1
+
+Supply side policies: Policies designed to affect aggregate supply by affecting costs or productivity
+
+Market-oriented supply-side policies: Policies designed to increase AS by freeing up the market
+
+Interventionist supply-side policies: Policies that increase AS through direct government intervention to counteract the deficiencies of the market
+
+## Chapter 3.2 Part 3
+
+Full employment: Fully employment refers to a situation that indicates a non-zero, low rate of unemployment when all those who are willing and able to work have gained employment
+
+Natural rate of unemployment: The natural rate of unemployment is the level of unemployment which consists of structural and frictional unemployment
+
+Working age population: refers t
