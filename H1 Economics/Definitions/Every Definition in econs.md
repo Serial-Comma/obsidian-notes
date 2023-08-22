@@ -167,4 +167,22 @@ Potential Growth: Refers to an increase in the economy's productive capacity ove
 
 Sustained Growth: Refers to a positive and stable growth rate, without a significant upward pressure on the general price level, over an extended period of time
 
-Sustainable Growth: Indicates a rate of growth that can be maintained without creating other significant economic problems, particularly for future generations. It implies a positive and stable g
+Sustainable Growth: Indicates a rate of growth that can be maintained without creating other significant economic problems, particularly for future generations. It implies a positive and stable growth rate over an extended period of time
+
+Inclusive Growth indicates a rate of growth that is sustained over a period of time, is broad-based across economic sectors, and creates productive employment opportunities for the majority of the country's population
+
+## Chapter 3.2 Part 2
+
+Budget surplus: When budget expenditure is less than budget revenue
+
+Budge deficit: When budget expenditure is more than budget revenue
+
+Progressive tax: A tax whose average rate with respect to income rises as income rises
+
+Regressive tax: A tax whose average rate with respect to income falls as income rises
+
+Direct tax: Direct tax are paid directly by the tax payer to the tax authorities. Such taxes include personal income tax, tax on companies' income and tax on capital and wealth
+
+Indirect tax: Indirect taxes are taxes imposed on each unit of output produced or transacted
+
+Discretionary fiscal policy: Refers to deliberate changes in government expenditure or level of d
