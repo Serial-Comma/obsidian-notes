@@ -241,4 +241,22 @@ Quantitative easing (QE): A monetary policy strategy where the central bank incr
 
 Quantitate tightening (QT): A monetary policy strategy where the central bank decreases the money supply when the economy is in a recession by selling assets to reduce economy activity
 
-C
+## Chapter 3.2 Part 5
+
+Inflation: A sustained increase in the general price level of goods and services in the economy
+
+Inflation rate: The percentage increase in the price level from one year to the next
+
+Consumer Price Index (CPI): An index that is used to measure the price changes of a fixed basket of goods and services consumed by a typical household of a country
+
+Headline inflation: The overall inflation as measured by the changes in CPI
+
+Core inflation: The inflation that is typically measured by excluding items which tend to exhibit large price volatility
+
+Disinflation: Refers to a reduction in the rate of inflation which inflation remaining positive
+
+Stagflation: Refers to a situation of high inflation, rising unemployment and low economic growth
+
+Deflation: the sustained decrease in the general price level of goods and services in an economy
+
+Demand-pull inflation:
