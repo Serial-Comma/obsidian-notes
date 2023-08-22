@@ -235,4 +235,10 @@ Seasonal unemployment: Unemployment that occurs when workers employed on a short
 
 Real-wage unemployment: Unemployment that occurs when wages are set above the free market equilibrium wage
 
+## Chapter 3.2 Part 4
 
+Quantitative easing (QE): A monetary policy strategy where the central bank increases the money supply when the economy is in a liquidity trap by purchasing securities to simulate economy activity
+
+Quantitate tightening (QT): A monetary policy strategy where the central bank decreases the money supply when the economy is in a recession by selling assets to reduce economy activity
+
+C
