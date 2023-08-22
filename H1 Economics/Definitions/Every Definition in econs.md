@@ -94,4 +94,14 @@ Price ceiling: The legal maximum price at which a good can be sold. For it have 
 
 Price floor: The legal minimum price on which a good can be sold. For it to have an impact, it needs to be set above the free market equilibrium price.
 
-Minimum wages: The minimum amount of remuneration that an employer is required to pay wage earners for the work performed during a given
+Minimum wages: The minimum amount of remuneration that an employer is required to pay wage earners for the work performed during a given period, which cannot be reduced by collective agreement or an individual contract
+
+Direct provision: The situation where the government provides the good or service by either producing it or outsourcing production to a private firm which can produce it at a lower cost
+
+Transfer payments: Money transferred from one person to another without transactions taking place. Transfer payments are a form of redistributive policy which aim to transfer part of the income gains enjoyed by higher-income earners to the lower-income segments or the population
+
+## Theme 2.2 
+
+Market failure: The failure of the free market to allocate resources efficiently
+
+Dynamic efficiency: Involves improving allocative and productive efficiency over time. Is associated with ini
