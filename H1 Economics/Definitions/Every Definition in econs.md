@@ -47,4 +47,12 @@ Complements: Goods that when consumed together, gives rise to a higher combined 
 
 Derived demand: The demand for goods which are not demanded for its own sake but is used to facilitate the production of another
 
-Supply: The quantit
+Supply: The quantity of the good that producers are willing and able to sell at every price level, ceteris paribus
+
+Law of supply: The law of supply states that when the price of a good rises, its quantity supplied will rise. When its price falls, the quantity supplied will fall too, ceteris paribus
+
+Joint supply: Goods are in joint supply when the production of one good leads to the production of the other good.
+
+Competitive supply: Goods in competitive supply compete for the use of the same inputs
+
+Price mechanism: The price mechanism descrives the means by which 
