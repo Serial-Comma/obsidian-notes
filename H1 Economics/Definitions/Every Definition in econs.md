@@ -31,3 +31,20 @@ Allocative efficiency: A situation where resources are allocated to produce a co
 
 ## Chapter 2.1
 
+Demand: The quantity of a good that consumers are willing and able to purchase at every price level, ceteris paribus
+
+Law of demand: The law of demand states that when the price of a good rises, its quantity demanded will fall and vice versa, ceteris paribus
+
+Law of diminishing marginal utility: The law of diminishing marginal utility states that beyond a certain point of consumption, as more and more units of a good or service are consumed, the additional utility a consumer derives from successive units decreases
+
+Normal good: A good whose demand rise as people's income rise, ceteris paribus
+
+Inferior good: A good whose demand falls as people's income rise, ceteris paribus
+
+Substitutes: Goods which are considered to be alternatives to each other
+
+Complements: Goods that when consumed together, gives rise to a higher combined utility than if they were consumed individually
+
+Derived demand: The demand for goods which are not demanded for its own sake but is used to facilitate the production of another
+
+Supply: The quantit
