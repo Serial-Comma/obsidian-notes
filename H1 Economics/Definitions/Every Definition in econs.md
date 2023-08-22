@@ -55,4 +55,23 @@ Joint supply: Goods are in joint supply when the production of one good leads to
 
 Competitive supply: Goods in competitive supply compete for the use of the same inputs
 
-Price mechanism: The price mechanism describes the means by which consumers and producers interact to determine the c
+Price mechanism: The price mechanism describes the means by which consumers and producers interact to determine the allocation of scarce resources between competing uses
+
+Shortage: It is a situation which exists at any price below equilibrium price where quantity demanded exceeds quantity supplied
+
+Surplus: It is a situation which exists at any price above the equilibrium price where quantity supplied exceeds quantity demanded
+
+
+## Chapter 2.1 Part 2
+
+Price elasticity of demand: PED measures the degree of responsiveness of quantity demanded of a good to a change in its price, ceteris paribus
+
+Consumer expenditure: The total amount of money that consumers spend on a good or service
+
+Producer revenue: The total amount of money that producers receive from the sale of a good or service
+
+Price elasticity of supply: PES measures the degree of responsiveness of quantity supplied of a good to a change in price, ceteris paribus
+
+## Chapter 2.1 Part 3
+
+Equity: The situation where the distribution of economic welfare is fair
