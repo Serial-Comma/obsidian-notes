@@ -75,3 +75,23 @@ Price elasticity of supply: PES measures the degree of responsiveness of quantit
 ## Chapter 2.1 Part 3
 
 Equity: The situation where the distribution of economic welfare is fair
+
+Income inequality: The degree to which income is distributed unequally in an economy or population
+
+Indirect taxes: Taxes imposed by the government on each unit of output produced or transacted
+
+Direct taxes: Taxes imposed by the government directly on the wealth or income of either the consumer or the producer
+
+Progressive direct taxes: Taxes imposed directly on wealth or income where the higher income earners pay a larger percentage of tax than lower income earners
+
+Indirect subsidies: A grant given by the government to encourage the production or consumption of a good or service
+
+Quota: A legal restriction on the quantity of goods or services that can be produced or transacted in a market. For it to have an impact, it has to be implemented below the equilibrium quantity
+
+Ban: A quoter where the output limit is set to zero
+
+Price ceiling: The legal maximum price at which a good can be sold. For it have an impact, the price needs to be set below the free market equilibrium price
+
+Price floor: The legal minimum price on which a good can be sold. For it to have an impact, it needs to be set above the free market equilibrium price.
+
+Minimum wages: The minimum amount of remuneration that an employer is required to pay wage earners for the work performed during a given
