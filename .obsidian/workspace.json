@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7d30c245daa6008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H1 Economics/Definitions/Every Definition in econs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H2 Computing/Untitled.md",
+                "file": "H1 Economics/Definitions/Every Definition in econs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H2 Computing/Untitled.md"
+                "file": "H1 Economics/Definitions/Every Definition in econs.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H2 Computing/Untitled.md",
+                "file": "H1 Economics/Definitions/Every Definition in econs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,9 +206,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "34100dc1b8678324",
+  "active": "b7d30c245daa6008",
   "lastOpenFiles": [
     "H2 Computing/Untitled.md",
+    "H1 Economics/Definitions/Every Definition in econs.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 1 Supply & Demand/Factors affecting demand.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
