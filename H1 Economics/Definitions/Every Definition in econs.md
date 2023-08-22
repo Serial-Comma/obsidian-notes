@@ -217,4 +217,22 @@ Full employment: Fully employment refers to a situation that indicates a non-zer
 
 Natural rate of unemployment: The natural rate of unemployment is the level of unemployment which consists of structural and frictional unemployment
 
-Working age population: refers t
+Unemployment: The situation where people of legal working age are not working, but are available for work and actively seeking work
+
+Working age population: refers to the labour force and people outside the labour force
+
+Labour force: Refers to all those within a country who are economically active, and are either working or seeking employment
+
+Unemployment rate: The percentage of the labour force that is unemployed
+
+Demand-deficient unemployment: Unemployment that occurs due to a lack of AD
+
+Structural unemployment: Unemployment that occurs due to a mismatch of skills between the unemployed workers and those required by jobs
+
+Frictional unemployment: Unemployment that occurs because it takes time for workers to find jobs that best suit their preferences and skills
+
+Seasonal unemployment: Unemployment that occurs when workers employed on a short-term basis become unemployed during the off-season
+
+Real-wage unemployment: Unemployment that occurs when wages are set above the free market equilibrium wage
+
+
