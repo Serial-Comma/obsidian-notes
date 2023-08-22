@@ -185,4 +185,20 @@ Direct tax: Direct tax are paid directly by the tax payer to the tax authorities
 
 Indirect tax: Indirect taxes are taxes imposed on each unit of output produced or transacted
 
-Discretionary fiscal policy: Refers to deliberate changes in government expenditure or level of d
+Discretionary fiscal policy: Refers to deliberate changes in government expenditure or level of direct taxes in order to influence the level of of aggregate demand
+
+Expansionary fiscal policy: Refers to increasing government development expenditure or decreasing direct taxes
+
+Crowding out effect: The crowding-out effect occurs when an increase in government expenditure (G) results in a fall in investment expenditure (I)
+
+Overheating: Overheating occurs when the aggregate demand is increasing so fast that it cannot be met by the economy's productive capacity, leading to high inflation
+
+Interest rate monetary policy: Involves regulating the money supply in the economy or manipulating the rate of interest to influence the level of economic activity
+
+Expansionary interest rate monetary policy: Refers to an increase in the supply of loanable funds to decrease interest rates
+
+Liquidity trap: Occurs when interest rates are so low that expansionary monetary policy no longer becomes effective.
+
+Exchange rate appreciation: Refers to a rise in free-market exchange rate of the domestic currency with foreign currencies
+
+Exchange rate depreciation: Refers to a 
