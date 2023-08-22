@@ -29,7 +29,7 @@ Productive efficiency: A situation where goods and services are produced at the 
 
 Allocative efficiency: A situation where resources are allocated to produce a combination of goods and services that maximises social welfare
 
-## Chapter 2.1
+## Chapter 2.1 Part 1
 
 Demand: The quantity of a good that consumers are willing and able to purchase at every price level, ceteris paribus
 
@@ -259,4 +259,6 @@ Stagflation: Refers to a situation of high inflation, rising unemployment and lo
 
 Deflation: the sustained decrease in the general price level of goods and services in an economy
 
-Demand-pull inflation:
+Demand-pull inflation: Refers to rising prices caused by high and rising AD near or at the full employment level of national output
+
+Cost-push inflation: Refers to rising prices caused by persistent increases in costs of production, for reasons not associated with a increase in AD
