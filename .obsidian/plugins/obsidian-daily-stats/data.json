@@ -12,12 +12,13 @@
     "2022/8/23": 1020,
     "2022/9/1": 280,
     "2023/2/22": 0,
-    "2023/7/22": 2681
+    "2023/7/22": 2681,
+    "2023/7/23": 0
   },
   "todaysWordCount": {
     "H1 Economics/Definitions/Every Definition in econs.md": {
-      "initial": 0,
-      "current": 2681
+      "initial": 2683,
+      "current": 2678
     }
   }
 }

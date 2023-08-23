@@ -92,6 +92,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0405019fa72bc40b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -208,8 +216,8 @@
   },
   "active": "b7d30c245daa6008",
   "lastOpenFiles": [
-    "H2 Computing/Untitled.md",
     "H1 Economics/Definitions/Every Definition in econs.md",
+    "H2 Computing/Untitled.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 1 Supply & Demand/Factors affecting demand.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Price ceiling.md",
     "H1 Economics/Chapter 2/Chapter 2.1 Part 3 Government Intervention/Direct Provision.md",
